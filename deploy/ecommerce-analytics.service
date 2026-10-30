@@ -1,0 +1,16 @@
+[Unit]
+Description=E-commerce sales analytics API (Express + PySpark worker)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/ecommerce-sales-analytics/backend
+EnvironmentFile=/opt/ecommerce-sales-analytics/.env
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=15
+
+[Install]
+WantedBy=multi-user.target

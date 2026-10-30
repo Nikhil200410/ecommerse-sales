@@ -1,0 +1,42 @@
+# dependencies / builds
+node_modules/
+frontend/dist/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# generated data and Spark output (reproducible: see README)
+spark-engine/data/orders.csv
+output/*
+!output/.gitkeep
+
+# local config, logs, Spark scratch, secrets
+.env
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.local
+*.pem
+*.ppk
+*.log
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS artefacts
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp

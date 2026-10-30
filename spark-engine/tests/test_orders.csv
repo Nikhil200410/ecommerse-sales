@@ -1,0 +1,17 @@
+order_id,customer_id,product_id,product_name,category,order_date,quantity,unit_price,discount,payment_method,order_status,city,state
+O1,C1,P1,Phone,Electronics,2025-01-10,1,10000,0.10,UPI,Delivered,Mumbai,Maharashtra
+O1,C1,P2,Case,Accessories,2025-01-10,2,500,0.00,UPI,Delivered,Mumbai,Maharashtra
+O2,C2,P2,Case,Accessories,2025-01-15,4,500,0.50,Credit Card,Shipped,Delhi,Delhi
+O3,C1,P3,Shirt,Fashion,2025-02-05,3,800,0.25,UPI,Delivered,Mumbai,Maharashtra
+O4,C3,P1,Phone,Electronics,2025-02-20,1,10000,0.00,Net Banking,Delivered,Bengaluru,Karnataka
+O5,C2,P3,Shirt,Fashion,2025-03-01,2,800,0.10,Credit Card,Cancelled,Delhi,Delhi
+O6,C4,P4,Book,Books,2025-03-10,5,200,0.00,Cash on Delivery,Returned,Pune,Maharashtra
+O7,C4,P4,Book,Books,2025-03-12,10,200,0.20,UPI,Delivered,Pune,Maharashtra
+O7,C4,P4,Book,Books,2025-03-12,10,200,0.20,UPI,Delivered,Pune,Maharashtra
+O8,C5,P1,Phone,Electronics,2025-03-15,0,10000,0.10,UPI,Delivered,Mumbai,Maharashtra
+O9,C5,P2,Case,Accessories,2025-13-40,1,500,0.00,UPI,Delivered,Mumbai,Maharashtra
+O10,C5,P2,Case,Accessories,2025-03-20,1,-500,0.00,UPI,Delivered,Mumbai,Maharashtra
+O11,C5,P2,Case,Accessories,2025-03-21,1,500,1.5,UPI,Delivered,Mumbai,Maharashtra
+O12,C5,P2,Case,Accessories,2025-03-22,1,500,0.00,UPI,Lost,Mumbai,Maharashtra
+O13,,P2,Case,Accessories,2025-03-23,1,500,0.00,UPI,Delivered,Mumbai,Maharashtra
+O14,C3,P3,Shirt,Fashion,2025-04-02,1,800,0.00,  upi ,  delivered ,bengaluru,Karnataka
