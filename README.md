@@ -138,7 +138,11 @@ Step-by-step install, IAM, security groups, HTTPS, and troubleshooting: **[deplo
 
 This repository does **not** launch instances, create buckets, or modify IAM in your account (those actions can incur charges). Ask before running any paid AWS API from this project.
 
-## Render + Vercel deployment (optional)
+## Free static Vercel deployment (no cloud Spark)
+
+To avoid hosting costs, run Spark on your own computer and deploy the precomputed dashboard snapshot as a static Vercel site. This version does not run Spark or calculate filters in the cloud. Follow **[deploy/STATIC-VERCEL.md](deploy/STATIC-VERCEL.md)**.
+
+## Render + Vercel deployment (paid API option)
 
 To host the full app without managing an EC2 instance, deploy the Dockerized Express + PySpark API on Render and the React dashboard on Vercel. Follow **[deploy/RENDER.md](deploy/RENDER.md)**. The API requires a paid Render instance with sufficient memory for Spark.
 

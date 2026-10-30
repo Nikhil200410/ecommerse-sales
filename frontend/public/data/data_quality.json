@@ -1,0 +1,32 @@
+{
+  "input_records": 112080,
+  "duplicate_records": 1329,
+  "rejected_records": 3238,
+  "rejected_by_reason": {
+    "missing_key": 938,
+    "invalid_date": 450,
+    "invalid_quantity": 468,
+    "invalid_unit_price": 473,
+    "invalid_discount": 438,
+    "invalid_order_status": 471
+  },
+  "valid_records": 107513,
+  "revenue_eligible_records": 93670,
+  "excluded_records": {
+    "Cancelled": 7527,
+    "Returned": 6316
+  },
+  "status_breakdown": {
+    "Shipped": 10743,
+    "Returned": 6316,
+    "Delivered": 82927,
+    "Cancelled": 7527
+  },
+  "balance_check_ok": true,
+  "status": "succeeded",
+  "processed_at": "2026-10-30T06:03:29+00:00",
+  "duration_seconds": 24.3,
+  "source_file": "orders.csv",
+  "data_source": "local",
+  "spark_version": "4.0.1"
+}

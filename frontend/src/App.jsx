@@ -1,6 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
-import FilterBar from './components/FilterBar';
-import ProcessingGate from './components/ProcessingGate';
+import { useEffect, useState } from 'react';
 import Sidebar, { PAGES } from './components/Sidebar';
 import { ErrorState, Loading } from './components/States';
 import { FilterProvider } from './context/FilterContext';
@@ -15,12 +13,12 @@ import { api } from './services/api';
 import { shortDate } from './utils/format';
 
 const PAGE_INFO = {
-  overview: { title: 'Overview', text: 'Revenue, orders and customers across the selected period', filters: true, Component: OverviewPage },
-  products: { title: 'Products', text: 'Best sellers, categories and slow movers', filters: true, Component: ProductsPage },
-  customers: { title: 'Customers', text: 'Top spenders, repeat buyers and RFM segments', filters: true, Component: CustomersPage },
-  geography: { title: 'Geography', text: 'Where the revenue comes from', filters: true, Component: GeographyPage },
-  payments: { title: 'Payments', text: 'Orders and revenue by payment method', filters: true, Component: PaymentsPage },
-  quality: { title: 'Data Quality', text: 'What the Spark ETL accepted, rejected and de-duplicated', filters: false, Component: DataQualityPage },
+  overview: { title: 'Overview', text: 'Revenue, orders and customers', Component: OverviewPage },
+  products: { title: 'Products', text: 'Best sellers, categories and slow movers', Component: ProductsPage },
+  customers: { title: 'Customers', text: 'Top spenders, repeat buyers and RFM segments', Component: CustomersPage },
+  geography: { title: 'Geography', text: 'Where the revenue comes from', Component: GeographyPage },
+  payments: { title: 'Payments', text: 'Orders and revenue by payment method', Component: PaymentsPage },
+  quality: { title: 'Data Quality', text: 'What the Spark ETL accepted, rejected and de-duplicated', Component: DataQualityPage },
 };
 
 function useHashPage() {
@@ -37,7 +35,7 @@ function useHashPage() {
   return page;
 }
 
-function Dashboard({ page, onRerun }) {
+function Dashboard({ page }) {
   const info = PAGE_INFO[page];
   const options = useApi(() => api.filterOptions(), []);
   const { Component } = info;
@@ -48,12 +46,12 @@ function Dashboard({ page, onRerun }) {
           <h1>{info.title}</h1>
           <p>
             {info.text}
-            {options.data && info.filters ? ` · data from ${shortDate(options.data.min_date)} to ${shortDate(options.data.max_date)}` : ''}
+            {options.data ? ` · data from ${shortDate(options.data.min_date)} to ${shortDate(options.data.max_date)}` : ''}
+            {' · Precomputed static snapshot; filters and cloud processing are disabled.'}
           </p>
         </div>
       </div>
-      {info.filters && <FilterBar options={options.data} />}
-      <Component onRerun={onRerun} />
+      <Component />
     </>
   );
 }
@@ -61,21 +59,11 @@ function Dashboard({ page, onRerun }) {
 export default function App() {
   const page = useHashPage();
   const status = useApi(() => api.status(), []);
-  const [forceGate, setForceGate] = useState(false);
-
-  const handleDone = useCallback(() => {
-    setForceGate(false);
-    status.reload();
-  }, [status.reload]); // eslint-disable-line react-hooks/exhaustive-deps
 
   let body;
   if (status.loading) body = <Loading label="Connecting to the API…" />;
   else if (status.error) body = <ErrorState error={status.error} onRetry={status.reload} />;
-  else if (forceGate || !status.data.processed || status.data.job.state === 'running') {
-    body = <ProcessingGate status={status.data} onDone={handleDone} onRefresh={status.reload} />;
-  } else {
-    body = <Dashboard page={page} onRerun={() => setForceGate(true)} />;
-  }
+  else body = <Dashboard page={page} />;
 
   return (
     <FilterProvider>

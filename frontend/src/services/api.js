@@ -1,5 +1,3 @@
-const BASE = (import.meta.env.VITE_API_BASE_URL || '').replace(/\/$/, '');
-
 export class ApiError extends Error {
   constructor(message, code, status) {
     super(message);
@@ -8,47 +6,59 @@ export class ApiError extends Error {
   }
 }
 
-function query(filters = {}) {
-  const params = new URLSearchParams();
-  Object.entries(filters).forEach(([k, v]) => {
-    if (v) params.set(k, v);
-  });
-  const s = params.toString();
-  return s ? `?${s}` : '';
+let analyticsPromise;
+
+async function readJson(file) {
+  let response;
+  try {
+    response = await fetch(`/data/${file}`);
+  } catch {
+    throw new ApiError('Cannot load the published dashboard data.', 'NETWORK', 0);
+  }
+  if (!response.ok) {
+    throw new ApiError(`Could not load ${file} (${response.status}).`, 'HTTP_ERROR', response.status);
+  }
+  return response.json();
 }
 
-async function request(path, options) {
-  let res;
-  try {
-    res = await fetch(`${BASE}/api${path}`, options);
-  } catch {
-    throw new ApiError('Cannot reach the API. Is the backend running, and is VITE_API_BASE_URL set if you are not using the Vite proxy?', 'NETWORK', 0);
+function analytics() {
+  if (!analyticsPromise) {
+    analyticsPromise = readJson('analytics.json').catch((error) => {
+      analyticsPromise = null;
+      throw error;
+    });
   }
-  let body = null;
-  try {
-    body = await res.json();
-  } catch {
-    /* non-JSON error */
-  }
-  if (!res.ok || !body?.success) {
-    throw new ApiError(body?.error?.message || `Request failed (${res.status})`, body?.error?.code || 'HTTP_ERROR', res.status);
-  }
-  return body;
+  return analyticsPromise;
 }
 
-const section = (name) => (filters) => request(`/${name}${query(filters)}`);
+const section = (select) => async () => ({
+  success: true,
+  data: select(await analytics()),
+  meta: { source: 'static snapshot' },
+});
 
 export const api = {
-  status: () => request('/status'),
-  runJob: () => request('/jobs/run', { method: 'POST' }),
-  filterOptions: () => request('/filters'),
-  overview: section('overview'),
-  trends: section('trends'),
-  products: section('products'),
-  customers: section('customers'),
-  geography: section('geography'),
-  payments: section('payments'),
-  dataQuality: () => request('/data-quality'),
+  status: async () => ({
+    success: true,
+    data: { job: { state: 'succeeded' }, processed: Boolean(await analytics()) },
+    meta: {},
+  }),
+  filterOptions: async () => ({
+    success: true,
+    data: await readJson('meta.json'),
+    meta: { source: 'static snapshot' },
+  }),
+  overview: section((result) => result.overview),
+  trends: section((result) => result.trends),
+  products: section((result) => result.products),
+  customers: section((result) => result.customers),
+  geography: section((result) => result.geography),
+  payments: section((result) => result.payments),
+  dataQuality: async () => ({
+    success: true,
+    data: await readJson('data_quality.json'),
+    meta: { source: 'static snapshot' },
+  }),
 };
 
-export const exportUrl = (dataset, filters) => `${BASE}/api/export/${dataset}${query(filters)}`;
+export const exportUrl = (dataset) => `/data/exports/${encodeURIComponent(dataset)}.csv`;

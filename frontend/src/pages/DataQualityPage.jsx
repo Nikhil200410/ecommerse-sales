@@ -14,7 +14,7 @@ const REASON_LABELS = {
   invalid_order_status: 'Unknown order status',
 };
 
-export default function DataQualityPage({ onRerun }) {
+export default function DataQualityPage() {
   const result = useApi(() => api.dataQuality(), []);
   return (
     <Async result={result}>
@@ -55,7 +55,7 @@ export default function DataQualityPage({ onRerun }) {
                   {q.balance_check_ok ? ' ✓' : ' ✗'}. Processed {new Date(q.processed_at).toLocaleString('en-IN')}.
                 </p>
                 <p style={{ marginTop: 12 }}>
-                  <button className="btn sm" onClick={onRerun}>Re-run Spark job</button>
+                  <span>Refresh this snapshot by regenerating the data locally and redeploying the dashboard.</span>
                 </p>
               </Card>
             </div>

@@ -1,0 +1,5212 @@
+{
+  "filters": {
+    "start": null,
+    "end": null,
+    "category": null,
+    "city": null
+  },
+  "overview": {
+    "gross_revenue": 511909694.0,
+    "discount_amount": 44476296.75,
+    "net_revenue": 467433397.25,
+    "valid_orders": 44837,
+    "units_sold": 167606,
+    "purchasing_customers": 14948,
+    "average_order_value": 10425.17,
+    "discount_rate_pct": 8.69,
+    "excluded": {
+      "Cancelled": {
+        "orders": 3640,
+        "value": 37433188.9
+      },
+      "Returned": {
+        "orders": 3005,
+        "value": 31741352.25
+      }
+    },
+    "has_data": true
+  },
+  "trends": {
+    "daily": [
+      {
+        "date": "2024-01-01",
+        "net_revenue": 506991.7,
+        "orders": 40,
+        "units": 147
+      },
+      {
+        "date": "2024-01-02",
+        "net_revenue": 211917.75,
+        "orders": 33,
+        "units": 106
+      },
+      {
+        "date": "2024-01-03",
+        "net_revenue": 475381.65,
+        "orders": 41,
+        "units": 132
+      },
+      {
+        "date": "2024-01-04",
+        "net_revenue": 746772.55,
+        "orders": 40,
+        "units": 138
+      },
+      {
+        "date": "2024-01-05",
+        "net_revenue": 457764.6,
+        "orders": 44,
+        "units": 155
+      },
+      {
+        "date": "2024-01-06",
+        "net_revenue": 705468.25,
+        "orders": 53,
+        "units": 188
+      },
+      {
+        "date": "2024-01-07",
+        "net_revenue": 574440.8,
+        "orders": 48,
+        "units": 180
+      },
+      {
+        "date": "2024-01-08",
+        "net_revenue": 280918.15,
+        "orders": 36,
+        "units": 142
+      },
+      {
+        "date": "2024-01-09",
+        "net_revenue": 335786.85,
+        "orders": 41,
+        "units": 138
+      },
+      {
+        "date": "2024-01-10",
+        "net_revenue": 562492.65,
+        "orders": 53,
+        "units": 198
+      },
+      {
+        "date": "2024-01-11",
+        "net_revenue": 414051.05,
+        "orders": 42,
+        "units": 160
+      },
+      {
+        "date": "2024-01-12",
+        "net_revenue": 513375.1,
+        "orders": 49,
+        "units": 199
+      },
+      {
+        "date": "2024-01-13",
+        "net_revenue": 295698.55,
+        "orders": 37,
+        "units": 130
+      },
+      {
+        "date": "2024-01-14",
+        "net_revenue": 488969.9,
+        "orders": 45,
+        "units": 199
+      },
+      {
+        "date": "2024-01-15",
+        "net_revenue": 826227.9,
+        "orders": 45,
+        "units": 176
+      },
+      {
+        "date": "2024-01-16",
+        "net_revenue": 517573.9,
+        "orders": 57,
+        "units": 240
+      },
+      {
+        "date": "2024-01-17",
+        "net_revenue": 244812.7,
+        "orders": 39,
+        "units": 127
+      },
+      {
+        "date": "2024-01-18",
+        "net_revenue": 451112.05,
+        "orders": 44,
+        "units": 160
+      },
+      {
+        "date": "2024-01-19",
+        "net_revenue": 536084.95,
+        "orders": 37,
+        "units": 161
+      },
+      {
+        "date": "2024-01-20",
+        "net_revenue": 643572.15,
+        "orders": 46,
+        "units": 180
+      },
+      {
+        "date": "2024-01-21",
+        "net_revenue": 252959.8,
+        "orders": 42,
+        "units": 160
+      },
+      {
+        "date": "2024-01-22",
+        "net_revenue": 531314.8,
+        "orders": 44,
+        "units": 179
+      },
+      {
+        "date": "2024-01-23",
+        "net_revenue": 233051.85,
+        "orders": 35,
+        "units": 116
+      },
+      {
+        "date": "2024-01-24",
+        "net_revenue": 190811.2,
+        "orders": 25,
+        "units": 93
+      },
+      {
+        "date": "2024-01-25",
+        "net_revenue": 359254.95,
+        "orders": 42,
+        "units": 149
+      },
+      {
+        "date": "2024-01-26",
+        "net_revenue": 354823.95,
+        "orders": 49,
+        "units": 161
+      },
+      {
+        "date": "2024-01-27",
+        "net_revenue": 326072.85,
+        "orders": 34,
+        "units": 115
+      },
+      {
+        "date": "2024-01-28",
+        "net_revenue": 290583.65,
+        "orders": 49,
+        "units": 158
+      },
+      {
+        "date": "2024-01-29",
+        "net_revenue": 918757.2,
+        "orders": 57,
+        "units": 260
+      },
+      {
+        "date": "2024-01-30",
+        "net_revenue": 581214.75,
+        "orders": 39,
+        "units": 133
+      },
+      {
+        "date": "2024-01-31",
+        "net_revenue": 347916.7,
+        "orders": 43,
+        "units": 182
+      },
+      {
+        "date": "2024-02-01",
+        "net_revenue": 286910.35,
+        "orders": 42,
+        "units": 139
+      },
+      {
+        "date": "2024-02-02",
+        "net_revenue": 338393.3,
+        "orders": 39,
+        "units": 137
+      },
+      {
+        "date": "2024-02-03",
+        "net_revenue": 894236.6,
+        "orders": 52,
+        "units": 187
+      },
+      {
+        "date": "2024-02-04",
+        "net_revenue": 453431.8,
+        "orders": 45,
+        "units": 157
+      },
+      {
+        "date": "2024-02-05",
+        "net_revenue": 312572.7,
+        "orders": 44,
+        "units": 149
+      },
+      {
+        "date": "2024-02-06",
+        "net_revenue": 303095.4,
+        "orders": 49,
+        "units": 160
+      },
+      {
+        "date": "2024-02-07",
+        "net_revenue": 562451.8,
+        "orders": 44,
+        "units": 194
+      },
+      {
+        "date": "2024-02-08",
+        "net_revenue": 392498.7,
+        "orders": 36,
+        "units": 141
+      },
+      {
+        "date": "2024-02-09",
+        "net_revenue": 342865.05,
+        "orders": 43,
+        "units": 154
+      },
+      {
+        "date": "2024-02-10",
+        "net_revenue": 924796.55,
+        "orders": 45,
+        "units": 191
+      },
+      {
+        "date": "2024-02-11",
+        "net_revenue": 464735.4,
+        "orders": 44,
+        "units": 164
+      },
+      {
+        "date": "2024-02-12",
+        "net_revenue": 512026.3,
+        "orders": 32,
+        "units": 147
+      },
+      {
+        "date": "2024-02-13",
+        "net_revenue": 311023.25,
+        "orders": 36,
+        "units": 134
+      },
+      {
+        "date": "2024-02-14",
+        "net_revenue": 522510.1,
+        "orders": 47,
+        "units": 213
+      },
+      {
+        "date": "2024-02-15",
+        "net_revenue": 288908.4,
+        "orders": 40,
+        "units": 161
+      },
+      {
+        "date": "2024-02-16",
+        "net_revenue": 277359.1,
+        "orders": 32,
+        "units": 131
+      },
+      {
+        "date": "2024-02-17",
+        "net_revenue": 507693.05,
+        "orders": 47,
+        "units": 178
+      },
+      {
+        "date": "2024-02-18",
+        "net_revenue": 352428.65,
+        "orders": 48,
+        "units": 158
+      },
+      {
+        "date": "2024-02-19",
+        "net_revenue": 196040.8,
+        "orders": 26,
+        "units": 86
+      },
+      {
+        "date": "2024-02-20",
+        "net_revenue": 537774.2,
+        "orders": 49,
+        "units": 159
+      },
+      {
+        "date": "2024-02-21",
+        "net_revenue": 281255.3,
+        "orders": 41,
+        "units": 134
+      },
+      {
+        "date": "2024-02-22",
+        "net_revenue": 448729.6,
+        "orders": 44,
+        "units": 165
+      },
+      {
+        "date": "2024-02-23",
+        "net_revenue": 523747.9,
+        "orders": 45,
+        "units": 170
+      },
+      {
+        "date": "2024-02-24",
+        "net_revenue": 374899.7,
+        "orders": 45,
+        "units": 159
+      },
+      {
+        "date": "2024-02-25",
+        "net_revenue": 350510.75,
+        "orders": 43,
+        "units": 157
+      },
+      {
+        "date": "2024-02-26",
+        "net_revenue": 323557.45,
+        "orders": 49,
+        "units": 192
+      },
+      {
+        "date": "2024-02-27",
+        "net_revenue": 279002.9,
+        "orders": 38,
+        "units": 116
+      },
+      {
+        "date": "2024-02-28",
+        "net_revenue": 413560.85,
+        "orders": 40,
+        "units": 177
+      },
+      {
+        "date": "2024-02-29",
+        "net_revenue": 151724.75,
+        "orders": 30,
+        "units": 107
+      },
+      {
+        "date": "2024-03-01",
+        "net_revenue": 611622.8,
+        "orders": 46,
+        "units": 207
+      },
+      {
+        "date": "2024-03-02",
+        "net_revenue": 541588.2,
+        "orders": 55,
+        "units": 204
+      },
+      {
+        "date": "2024-03-03",
+        "net_revenue": 545980.35,
+        "orders": 42,
+        "units": 166
+      },
+      {
+        "date": "2024-03-04",
+        "net_revenue": 572619.65,
+        "orders": 41,
+        "units": 174
+      },
+      {
+        "date": "2024-03-05",
+        "net_revenue": 517326.7,
+        "orders": 49,
+        "units": 185
+      },
+      {
+        "date": "2024-03-06",
+        "net_revenue": 666773.5,
+        "orders": 46,
+        "units": 169
+      },
+      {
+        "date": "2024-03-07",
+        "net_revenue": 244438.4,
+        "orders": 36,
+        "units": 109
+      },
+      {
+        "date": "2024-03-08",
+        "net_revenue": 688960.1,
+        "orders": 43,
+        "units": 159
+      },
+      {
+        "date": "2024-03-09",
+        "net_revenue": 699291.4,
+        "orders": 51,
+        "units": 205
+      },
+      {
+        "date": "2024-03-10",
+        "net_revenue": 491580.25,
+        "orders": 43,
+        "units": 174
+      },
+      {
+        "date": "2024-03-11",
+        "net_revenue": 517660.35,
+        "orders": 49,
+        "units": 180
+      },
+      {
+        "date": "2024-03-12",
+        "net_revenue": 420226.25,
+        "orders": 65,
+        "units": 223
+      },
+      {
+        "date": "2024-03-13",
+        "net_revenue": 318209.6,
+        "orders": 52,
+        "units": 185
+      },
+      {
+        "date": "2024-03-14",
+        "net_revenue": 257076.55,
+        "orders": 31,
+        "units": 121
+      },
+      {
+        "date": "2024-03-15",
+        "net_revenue": 346685.45,
+        "orders": 46,
+        "units": 156
+      },
+      {
+        "date": "2024-03-16",
+        "net_revenue": 403046.65,
+        "orders": 57,
+        "units": 253
+      },
+      {
+        "date": "2024-03-17",
+        "net_revenue": 434082.85,
+        "orders": 54,
+        "units": 223
+      },
+      {
+        "date": "2024-03-18",
+        "net_revenue": 643723.1,
+        "orders": 45,
+        "units": 166
+      },
+      {
+        "date": "2024-03-19",
+        "net_revenue": 420622.1,
+        "orders": 36,
+        "units": 152
+      },
+      {
+        "date": "2024-03-20",
+        "net_revenue": 630702.6,
+        "orders": 49,
+        "units": 191
+      },
+      {
+        "date": "2024-03-21",
+        "net_revenue": 518221.7,
+        "orders": 41,
+        "units": 144
+      },
+      {
+        "date": "2024-03-22",
+        "net_revenue": 289805.8,
+        "orders": 43,
+        "units": 150
+      },
+      {
+        "date": "2024-03-23",
+        "net_revenue": 561760.45,
+        "orders": 54,
+        "units": 215
+      },
+      {
+        "date": "2024-03-24",
+        "net_revenue": 502904.9,
+        "orders": 51,
+        "units": 179
+      },
+      {
+        "date": "2024-03-25",
+        "net_revenue": 425681.25,
+        "orders": 54,
+        "units": 185
+      },
+      {
+        "date": "2024-03-26",
+        "net_revenue": 577021.85,
+        "orders": 42,
+        "units": 153
+      },
+      {
+        "date": "2024-03-27",
+        "net_revenue": 314357.35,
+        "orders": 39,
+        "units": 154
+      },
+      {
+        "date": "2024-03-28",
+        "net_revenue": 349252.8,
+        "orders": 41,
+        "units": 165
+      },
+      {
+        "date": "2024-03-29",
+        "net_revenue": 440278.55,
+        "orders": 48,
+        "units": 185
+      },
+      {
+        "date": "2024-03-30",
+        "net_revenue": 619318.6,
+        "orders": 50,
+        "units": 202
+      },
+      {
+        "date": "2024-03-31",
+        "net_revenue": 465839.1,
+        "orders": 54,
+        "units": 189
+      },
+      {
+        "date": "2024-04-01",
+        "net_revenue": 446253.65,
+        "orders": 50,
+        "units": 176
+      },
+      {
+        "date": "2024-04-02",
+        "net_revenue": 478323.55,
+        "orders": 45,
+        "units": 174
+      },
+      {
+        "date": "2024-04-03",
+        "net_revenue": 390255.7,
+        "orders": 43,
+        "units": 142
+      },
+      {
+        "date": "2024-04-04",
+        "net_revenue": 329756.3,
+        "orders": 40,
+        "units": 152
+      },
+      {
+        "date": "2024-04-05",
+        "net_revenue": 319135.75,
+        "orders": 42,
+        "units": 159
+      },
+      {
+        "date": "2024-04-06",
+        "net_revenue": 348606.05,
+        "orders": 48,
+        "units": 203
+      },
+      {
+        "date": "2024-04-07",
+        "net_revenue": 342022.9,
+        "orders": 43,
+        "units": 144
+      },
+      {
+        "date": "2024-04-08",
+        "net_revenue": 320527.6,
+        "orders": 44,
+        "units": 155
+      },
+      {
+        "date": "2024-04-09",
+        "net_revenue": 454802.55,
+        "orders": 48,
+        "units": 179
+      },
+      {
+        "date": "2024-04-10",
+        "net_revenue": 594079.45,
+        "orders": 62,
+        "units": 227
+      },
+      {
+        "date": "2024-04-11",
+        "net_revenue": 343502.55,
+        "orders": 45,
+        "units": 173
+      },
+      {
+        "date": "2024-04-12",
+        "net_revenue": 526684.4,
+        "orders": 49,
+        "units": 174
+      },
+      {
+        "date": "2024-04-13",
+        "net_revenue": 712257.4,
+        "orders": 67,
+        "units": 265
+      },
+      {
+        "date": "2024-04-14",
+        "net_revenue": 503423.75,
+        "orders": 52,
+        "units": 195
+      },
+      {
+        "date": "2024-04-15",
+        "net_revenue": 796711.5,
+        "orders": 59,
+        "units": 218
+      },
+      {
+        "date": "2024-04-16",
+        "net_revenue": 407112.55,
+        "orders": 41,
+        "units": 162
+      },
+      {
+        "date": "2024-04-17",
+        "net_revenue": 345415.2,
+        "orders": 29,
+        "units": 88
+      },
+      {
+        "date": "2024-04-18",
+        "net_revenue": 310092.7,
+        "orders": 37,
+        "units": 145
+      },
+      {
+        "date": "2024-04-19",
+        "net_revenue": 333490.45,
+        "orders": 39,
+        "units": 152
+      },
+      {
+        "date": "2024-04-20",
+        "net_revenue": 721234.1,
+        "orders": 47,
+        "units": 186
+      },
+      {
+        "date": "2024-04-21",
+        "net_revenue": 572347.3,
+        "orders": 63,
+        "units": 248
+      },
+      {
+        "date": "2024-04-22",
+        "net_revenue": 328004.8,
+        "orders": 41,
+        "units": 173
+      },
+      {
+        "date": "2024-04-23",
+        "net_revenue": 417641.25,
+        "orders": 51,
+        "units": 205
+      },
+      {
+        "date": "2024-04-24",
+        "net_revenue": 685318.4,
+        "orders": 55,
+        "units": 173
+      },
+      {
+        "date": "2024-04-25",
+        "net_revenue": 353516.35,
+        "orders": 40,
+        "units": 136
+      },
+      {
+        "date": "2024-04-26",
+        "net_revenue": 430728.75,
+        "orders": 54,
+        "units": 209
+      },
+      {
+        "date": "2024-04-27",
+        "net_revenue": 537525.85,
+        "orders": 63,
+        "units": 194
+      },
+      {
+        "date": "2024-04-28",
+        "net_revenue": 632797.55,
+        "orders": 49,
+        "units": 189
+      },
+      {
+        "date": "2024-04-29",
+        "net_revenue": 300364.15,
+        "orders": 42,
+        "units": 142
+      },
+      {
+        "date": "2024-04-30",
+        "net_revenue": 456775.9,
+        "orders": 55,
+        "units": 201
+      },
+      {
+        "date": "2024-05-01",
+        "net_revenue": 766590.15,
+        "orders": 54,
+        "units": 226
+      },
+      {
+        "date": "2024-05-02",
+        "net_revenue": 323152.15,
+        "orders": 38,
+        "units": 135
+      },
+      {
+        "date": "2024-05-03",
+        "net_revenue": 402909.9,
+        "orders": 57,
+        "units": 238
+      },
+      {
+        "date": "2024-05-04",
+        "net_revenue": 518464.65,
+        "orders": 56,
+        "units": 239
+      },
+      {
+        "date": "2024-05-05",
+        "net_revenue": 452632.2,
+        "orders": 47,
+        "units": 173
+      },
+      {
+        "date": "2024-05-06",
+        "net_revenue": 1029536.05,
+        "orders": 77,
+        "units": 248
+      },
+      {
+        "date": "2024-05-07",
+        "net_revenue": 372174.1,
+        "orders": 42,
+        "units": 155
+      },
+      {
+        "date": "2024-05-08",
+        "net_revenue": 733018.35,
+        "orders": 57,
+        "units": 209
+      },
+      {
+        "date": "2024-05-09",
+        "net_revenue": 311031.1,
+        "orders": 43,
+        "units": 148
+      },
+      {
+        "date": "2024-05-10",
+        "net_revenue": 325425.75,
+        "orders": 45,
+        "units": 156
+      },
+      {
+        "date": "2024-05-11",
+        "net_revenue": 366854.3,
+        "orders": 39,
+        "units": 132
+      },
+      {
+        "date": "2024-05-12",
+        "net_revenue": 695850.4,
+        "orders": 51,
+        "units": 236
+      },
+      {
+        "date": "2024-05-13",
+        "net_revenue": 435833.2,
+        "orders": 46,
+        "units": 194
+      },
+      {
+        "date": "2024-05-14",
+        "net_revenue": 890535.3,
+        "orders": 52,
+        "units": 196
+      },
+      {
+        "date": "2024-05-15",
+        "net_revenue": 392295.75,
+        "orders": 31,
+        "units": 123
+      },
+      {
+        "date": "2024-05-16",
+        "net_revenue": 392368.8,
+        "orders": 46,
+        "units": 176
+      },
+      {
+        "date": "2024-05-17",
+        "net_revenue": 419460.9,
+        "orders": 46,
+        "units": 161
+      },
+      {
+        "date": "2024-05-18",
+        "net_revenue": 1022851.05,
+        "orders": 71,
+        "units": 233
+      },
+      {
+        "date": "2024-05-19",
+        "net_revenue": 453339.55,
+        "orders": 52,
+        "units": 198
+      },
+      {
+        "date": "2024-05-20",
+        "net_revenue": 716010.2,
+        "orders": 62,
+        "units": 198
+      },
+      {
+        "date": "2024-05-21",
+        "net_revenue": 697007.95,
+        "orders": 48,
+        "units": 194
+      },
+      {
+        "date": "2024-05-22",
+        "net_revenue": 438704.75,
+        "orders": 55,
+        "units": 187
+      },
+      {
+        "date": "2024-05-23",
+        "net_revenue": 473836.05,
+        "orders": 49,
+        "units": 192
+      },
+      {
+        "date": "2024-05-24",
+        "net_revenue": 483752.5,
+        "orders": 52,
+        "units": 181
+      },
+      {
+        "date": "2024-05-25",
+        "net_revenue": 802699.2,
+        "orders": 57,
+        "units": 162
+      },
+      {
+        "date": "2024-05-26",
+        "net_revenue": 886307.1,
+        "orders": 59,
+        "units": 231
+      },
+      {
+        "date": "2024-05-27",
+        "net_revenue": 1374763.1,
+        "orders": 51,
+        "units": 201
+      },
+      {
+        "date": "2024-05-28",
+        "net_revenue": 503085.05,
+        "orders": 53,
+        "units": 224
+      },
+      {
+        "date": "2024-05-29",
+        "net_revenue": 355934.75,
+        "orders": 47,
+        "units": 160
+      },
+      {
+        "date": "2024-05-30",
+        "net_revenue": 548817.7,
+        "orders": 64,
+        "units": 244
+      },
+      {
+        "date": "2024-05-31",
+        "net_revenue": 674404.1,
+        "orders": 52,
+        "units": 167
+      },
+      {
+        "date": "2024-06-01",
+        "net_revenue": 599470.75,
+        "orders": 50,
+        "units": 170
+      },
+      {
+        "date": "2024-06-02",
+        "net_revenue": 334555.45,
+        "orders": 43,
+        "units": 147
+      },
+      {
+        "date": "2024-06-03",
+        "net_revenue": 691957.25,
+        "orders": 51,
+        "units": 198
+      },
+      {
+        "date": "2024-06-04",
+        "net_revenue": 586772.4,
+        "orders": 39,
+        "units": 141
+      },
+      {
+        "date": "2024-06-05",
+        "net_revenue": 311969.25,
+        "orders": 34,
+        "units": 139
+      },
+      {
+        "date": "2024-06-06",
+        "net_revenue": 439190.35,
+        "orders": 51,
+        "units": 171
+      },
+      {
+        "date": "2024-06-07",
+        "net_revenue": 691191.0,
+        "orders": 41,
+        "units": 151
+      },
+      {
+        "date": "2024-06-08",
+        "net_revenue": 525818.25,
+        "orders": 43,
+        "units": 165
+      },
+      {
+        "date": "2024-06-09",
+        "net_revenue": 441222.2,
+        "orders": 62,
+        "units": 213
+      },
+      {
+        "date": "2024-06-10",
+        "net_revenue": 471488.5,
+        "orders": 52,
+        "units": 165
+      },
+      {
+        "date": "2024-06-11",
+        "net_revenue": 495508.1,
+        "orders": 59,
+        "units": 199
+      },
+      {
+        "date": "2024-06-12",
+        "net_revenue": 247483.4,
+        "orders": 38,
+        "units": 137
+      },
+      {
+        "date": "2024-06-13",
+        "net_revenue": 472096.35,
+        "orders": 53,
+        "units": 236
+      },
+      {
+        "date": "2024-06-14",
+        "net_revenue": 577643.9,
+        "orders": 49,
+        "units": 182
+      },
+      {
+        "date": "2024-06-15",
+        "net_revenue": 598794.85,
+        "orders": 45,
+        "units": 163
+      },
+      {
+        "date": "2024-06-16",
+        "net_revenue": 768128.7,
+        "orders": 47,
+        "units": 183
+      },
+      {
+        "date": "2024-06-17",
+        "net_revenue": 413725.1,
+        "orders": 53,
+        "units": 190
+      },
+      {
+        "date": "2024-06-18",
+        "net_revenue": 292915.25,
+        "orders": 54,
+        "units": 192
+      },
+      {
+        "date": "2024-06-19",
+        "net_revenue": 707045.0,
+        "orders": 39,
+        "units": 138
+      },
+      {
+        "date": "2024-06-20",
+        "net_revenue": 658324.15,
+        "orders": 40,
+        "units": 157
+      },
+      {
+        "date": "2024-06-21",
+        "net_revenue": 447977.45,
+        "orders": 49,
+        "units": 201
+      },
+      {
+        "date": "2024-06-22",
+        "net_revenue": 349335.35,
+        "orders": 41,
+        "units": 137
+      },
+      {
+        "date": "2024-06-23",
+        "net_revenue": 857529.2,
+        "orders": 55,
+        "units": 243
+      },
+      {
+        "date": "2024-06-24",
+        "net_revenue": 404414.6,
+        "orders": 54,
+        "units": 184
+      },
+      {
+        "date": "2024-06-25",
+        "net_revenue": 607805.7,
+        "orders": 50,
+        "units": 181
+      },
+      {
+        "date": "2024-06-26",
+        "net_revenue": 314518.45,
+        "orders": 43,
+        "units": 149
+      },
+      {
+        "date": "2024-06-27",
+        "net_revenue": 638672.2,
+        "orders": 54,
+        "units": 191
+      },
+      {
+        "date": "2024-06-28",
+        "net_revenue": 569422.45,
+        "orders": 45,
+        "units": 163
+      },
+      {
+        "date": "2024-06-29",
+        "net_revenue": 555873.35,
+        "orders": 53,
+        "units": 208
+      },
+      {
+        "date": "2024-06-30",
+        "net_revenue": 508941.3,
+        "orders": 42,
+        "units": 164
+      },
+      {
+        "date": "2024-07-01",
+        "net_revenue": 484780.55,
+        "orders": 38,
+        "units": 172
+      },
+      {
+        "date": "2024-07-02",
+        "net_revenue": 442033.9,
+        "orders": 50,
+        "units": 215
+      },
+      {
+        "date": "2024-07-03",
+        "net_revenue": 467509.9,
+        "orders": 50,
+        "units": 176
+      },
+      {
+        "date": "2024-07-04",
+        "net_revenue": 385462.05,
+        "orders": 44,
+        "units": 170
+      },
+      {
+        "date": "2024-07-05",
+        "net_revenue": 250742.75,
+        "orders": 39,
+        "units": 142
+      },
+      {
+        "date": "2024-07-06",
+        "net_revenue": 665071.8,
+        "orders": 50,
+        "units": 181
+      },
+      {
+        "date": "2024-07-07",
+        "net_revenue": 819805.05,
+        "orders": 54,
+        "units": 234
+      },
+      {
+        "date": "2024-07-08",
+        "net_revenue": 381404.6,
+        "orders": 40,
+        "units": 113
+      },
+      {
+        "date": "2024-07-09",
+        "net_revenue": 600163.55,
+        "orders": 45,
+        "units": 150
+      },
+      {
+        "date": "2024-07-10",
+        "net_revenue": 477085.0,
+        "orders": 49,
+        "units": 184
+      },
+      {
+        "date": "2024-07-11",
+        "net_revenue": 366034.55,
+        "orders": 40,
+        "units": 139
+      },
+      {
+        "date": "2024-07-12",
+        "net_revenue": 442411.8,
+        "orders": 55,
+        "units": 179
+      },
+      {
+        "date": "2024-07-13",
+        "net_revenue": 402122.35,
+        "orders": 44,
+        "units": 140
+      },
+      {
+        "date": "2024-07-14",
+        "net_revenue": 747306.45,
+        "orders": 51,
+        "units": 201
+      },
+      {
+        "date": "2024-07-15",
+        "net_revenue": 441609.85,
+        "orders": 43,
+        "units": 200
+      },
+      {
+        "date": "2024-07-16",
+        "net_revenue": 227205.1,
+        "orders": 36,
+        "units": 118
+      },
+      {
+        "date": "2024-07-17",
+        "net_revenue": 503256.6,
+        "orders": 50,
+        "units": 181
+      },
+      {
+        "date": "2024-07-18",
+        "net_revenue": 420793.5,
+        "orders": 49,
+        "units": 190
+      },
+      {
+        "date": "2024-07-19",
+        "net_revenue": 320282.15,
+        "orders": 45,
+        "units": 153
+      },
+      {
+        "date": "2024-07-20",
+        "net_revenue": 515834.05,
+        "orders": 56,
+        "units": 198
+      },
+      {
+        "date": "2024-07-21",
+        "net_revenue": 675600.7,
+        "orders": 50,
+        "units": 202
+      },
+      {
+        "date": "2024-07-22",
+        "net_revenue": 559211.7,
+        "orders": 49,
+        "units": 187
+      },
+      {
+        "date": "2024-07-23",
+        "net_revenue": 343871.75,
+        "orders": 36,
+        "units": 153
+      },
+      {
+        "date": "2024-07-24",
+        "net_revenue": 442467.3,
+        "orders": 41,
+        "units": 195
+      },
+      {
+        "date": "2024-07-25",
+        "net_revenue": 585969.95,
+        "orders": 46,
+        "units": 151
+      },
+      {
+        "date": "2024-07-26",
+        "net_revenue": 247109.05,
+        "orders": 34,
+        "units": 121
+      },
+      {
+        "date": "2024-07-27",
+        "net_revenue": 596264.8,
+        "orders": 48,
+        "units": 194
+      },
+      {
+        "date": "2024-07-28",
+        "net_revenue": 1052724.9,
+        "orders": 63,
+        "units": 237
+      },
+      {
+        "date": "2024-07-29",
+        "net_revenue": 625942.35,
+        "orders": 46,
+        "units": 172
+      },
+      {
+        "date": "2024-07-30",
+        "net_revenue": 425235.75,
+        "orders": 42,
+        "units": 156
+      },
+      {
+        "date": "2024-07-31",
+        "net_revenue": 392484.3,
+        "orders": 46,
+        "units": 175
+      },
+      {
+        "date": "2024-08-01",
+        "net_revenue": 329371.95,
+        "orders": 39,
+        "units": 144
+      },
+      {
+        "date": "2024-08-02",
+        "net_revenue": 450547.1,
+        "orders": 57,
+        "units": 202
+      },
+      {
+        "date": "2024-08-03",
+        "net_revenue": 449353.85,
+        "orders": 59,
+        "units": 185
+      },
+      {
+        "date": "2024-08-04",
+        "net_revenue": 1251539.4,
+        "orders": 59,
+        "units": 238
+      },
+      {
+        "date": "2024-08-05",
+        "net_revenue": 302057.3,
+        "orders": 47,
+        "units": 163
+      },
+      {
+        "date": "2024-08-06",
+        "net_revenue": 330803.6,
+        "orders": 49,
+        "units": 165
+      },
+      {
+        "date": "2024-08-07",
+        "net_revenue": 577919.15,
+        "orders": 60,
+        "units": 249
+      },
+      {
+        "date": "2024-08-08",
+        "net_revenue": 376427.0,
+        "orders": 46,
+        "units": 175
+      },
+      {
+        "date": "2024-08-09",
+        "net_revenue": 484099.6,
+        "orders": 43,
+        "units": 150
+      },
+      {
+        "date": "2024-08-10",
+        "net_revenue": 433053.25,
+        "orders": 54,
+        "units": 209
+      },
+      {
+        "date": "2024-08-11",
+        "net_revenue": 769555.45,
+        "orders": 65,
+        "units": 250
+      },
+      {
+        "date": "2024-08-12",
+        "net_revenue": 521212.95,
+        "orders": 41,
+        "units": 169
+      },
+      {
+        "date": "2024-08-13",
+        "net_revenue": 439054.5,
+        "orders": 58,
+        "units": 203
+      },
+      {
+        "date": "2024-08-14",
+        "net_revenue": 633321.2,
+        "orders": 52,
+        "units": 193
+      },
+      {
+        "date": "2024-08-15",
+        "net_revenue": 785785.5,
+        "orders": 66,
+        "units": 261
+      },
+      {
+        "date": "2024-08-16",
+        "net_revenue": 567634.4,
+        "orders": 46,
+        "units": 172
+      },
+      {
+        "date": "2024-08-17",
+        "net_revenue": 465984.55,
+        "orders": 57,
+        "units": 217
+      },
+      {
+        "date": "2024-08-18",
+        "net_revenue": 779231.6,
+        "orders": 54,
+        "units": 219
+      },
+      {
+        "date": "2024-08-19",
+        "net_revenue": 309370.0,
+        "orders": 52,
+        "units": 175
+      },
+      {
+        "date": "2024-08-20",
+        "net_revenue": 328316.3,
+        "orders": 38,
+        "units": 143
+      },
+      {
+        "date": "2024-08-21",
+        "net_revenue": 776129.25,
+        "orders": 48,
+        "units": 183
+      },
+      {
+        "date": "2024-08-22",
+        "net_revenue": 644873.05,
+        "orders": 48,
+        "units": 194
+      },
+      {
+        "date": "2024-08-23",
+        "net_revenue": 426892.2,
+        "orders": 54,
+        "units": 192
+      },
+      {
+        "date": "2024-08-24",
+        "net_revenue": 744617.65,
+        "orders": 62,
+        "units": 231
+      },
+      {
+        "date": "2024-08-25",
+        "net_revenue": 705188.1,
+        "orders": 56,
+        "units": 219
+      },
+      {
+        "date": "2024-08-26",
+        "net_revenue": 744341.2,
+        "orders": 63,
+        "units": 269
+      },
+      {
+        "date": "2024-08-27",
+        "net_revenue": 602471.35,
+        "orders": 45,
+        "units": 166
+      },
+      {
+        "date": "2024-08-28",
+        "net_revenue": 502993.75,
+        "orders": 55,
+        "units": 181
+      },
+      {
+        "date": "2024-08-29",
+        "net_revenue": 608756.3,
+        "orders": 48,
+        "units": 176
+      },
+      {
+        "date": "2024-08-30",
+        "net_revenue": 448799.4,
+        "orders": 48,
+        "units": 171
+      },
+      {
+        "date": "2024-08-31",
+        "net_revenue": 422983.95,
+        "orders": 52,
+        "units": 196
+      },
+      {
+        "date": "2024-09-01",
+        "net_revenue": 760762.85,
+        "orders": 60,
+        "units": 233
+      },
+      {
+        "date": "2024-09-02",
+        "net_revenue": 596615.4,
+        "orders": 50,
+        "units": 180
+      },
+      {
+        "date": "2024-09-03",
+        "net_revenue": 431734.45,
+        "orders": 60,
+        "units": 230
+      },
+      {
+        "date": "2024-09-04",
+        "net_revenue": 339618.65,
+        "orders": 47,
+        "units": 147
+      },
+      {
+        "date": "2024-09-05",
+        "net_revenue": 611108.2,
+        "orders": 55,
+        "units": 241
+      },
+      {
+        "date": "2024-09-06",
+        "net_revenue": 1084872.7,
+        "orders": 58,
+        "units": 215
+      },
+      {
+        "date": "2024-09-07",
+        "net_revenue": 492380.9,
+        "orders": 57,
+        "units": 220
+      },
+      {
+        "date": "2024-09-08",
+        "net_revenue": 953125.25,
+        "orders": 54,
+        "units": 224
+      },
+      {
+        "date": "2024-09-09",
+        "net_revenue": 573341.25,
+        "orders": 71,
+        "units": 267
+      },
+      {
+        "date": "2024-09-10",
+        "net_revenue": 427385.15,
+        "orders": 52,
+        "units": 174
+      },
+      {
+        "date": "2024-09-11",
+        "net_revenue": 519260.55,
+        "orders": 49,
+        "units": 179
+      },
+      {
+        "date": "2024-09-12",
+        "net_revenue": 827030.75,
+        "orders": 59,
+        "units": 245
+      },
+      {
+        "date": "2024-09-13",
+        "net_revenue": 813006.7,
+        "orders": 61,
+        "units": 216
+      },
+      {
+        "date": "2024-09-14",
+        "net_revenue": 764267.45,
+        "orders": 87,
+        "units": 342
+      },
+      {
+        "date": "2024-09-15",
+        "net_revenue": 464441.25,
+        "orders": 63,
+        "units": 231
+      },
+      {
+        "date": "2024-09-16",
+        "net_revenue": 670863.05,
+        "orders": 55,
+        "units": 211
+      },
+      {
+        "date": "2024-09-17",
+        "net_revenue": 523020.6,
+        "orders": 55,
+        "units": 220
+      },
+      {
+        "date": "2024-09-18",
+        "net_revenue": 544774.6,
+        "orders": 53,
+        "units": 183
+      },
+      {
+        "date": "2024-09-19",
+        "net_revenue": 847205.75,
+        "orders": 67,
+        "units": 228
+      },
+      {
+        "date": "2024-09-20",
+        "net_revenue": 519900.0,
+        "orders": 52,
+        "units": 172
+      },
+      {
+        "date": "2024-09-21",
+        "net_revenue": 1134886.0,
+        "orders": 53,
+        "units": 210
+      },
+      {
+        "date": "2024-09-22",
+        "net_revenue": 851504.75,
+        "orders": 67,
+        "units": 267
+      },
+      {
+        "date": "2024-09-23",
+        "net_revenue": 756989.9,
+        "orders": 59,
+        "units": 212
+      },
+      {
+        "date": "2024-09-24",
+        "net_revenue": 577963.15,
+        "orders": 45,
+        "units": 153
+      },
+      {
+        "date": "2024-09-25",
+        "net_revenue": 575067.2,
+        "orders": 55,
+        "units": 215
+      },
+      {
+        "date": "2024-09-26",
+        "net_revenue": 976827.1,
+        "orders": 57,
+        "units": 206
+      },
+      {
+        "date": "2024-09-27",
+        "net_revenue": 353316.95,
+        "orders": 44,
+        "units": 160
+      },
+      {
+        "date": "2024-09-28",
+        "net_revenue": 552192.9,
+        "orders": 71,
+        "units": 292
+      },
+      {
+        "date": "2024-09-29",
+        "net_revenue": 586369.9,
+        "orders": 55,
+        "units": 185
+      },
+      {
+        "date": "2024-09-30",
+        "net_revenue": 491692.4,
+        "orders": 62,
+        "units": 251
+      },
+      {
+        "date": "2024-10-01",
+        "net_revenue": 745316.0,
+        "orders": 71,
+        "units": 272
+      },
+      {
+        "date": "2024-10-02",
+        "net_revenue": 514658.8,
+        "orders": 71,
+        "units": 247
+      },
+      {
+        "date": "2024-10-03",
+        "net_revenue": 671417.45,
+        "orders": 90,
+        "units": 311
+      },
+      {
+        "date": "2024-10-04",
+        "net_revenue": 742643.05,
+        "orders": 65,
+        "units": 269
+      },
+      {
+        "date": "2024-10-05",
+        "net_revenue": 1294556.45,
+        "orders": 94,
+        "units": 354
+      },
+      {
+        "date": "2024-10-06",
+        "net_revenue": 999128.5,
+        "orders": 83,
+        "units": 307
+      },
+      {
+        "date": "2024-10-07",
+        "net_revenue": 920528.7,
+        "orders": 93,
+        "units": 362
+      },
+      {
+        "date": "2024-10-08",
+        "net_revenue": 784580.4,
+        "orders": 82,
+        "units": 321
+      },
+      {
+        "date": "2024-10-09",
+        "net_revenue": 926930.6,
+        "orders": 70,
+        "units": 274
+      },
+      {
+        "date": "2024-10-10",
+        "net_revenue": 877770.25,
+        "orders": 85,
+        "units": 327
+      },
+      {
+        "date": "2024-10-11",
+        "net_revenue": 514051.3,
+        "orders": 68,
+        "units": 271
+      },
+      {
+        "date": "2024-10-12",
+        "net_revenue": 976313.6,
+        "orders": 88,
+        "units": 330
+      },
+      {
+        "date": "2024-10-13",
+        "net_revenue": 844771.45,
+        "orders": 77,
+        "units": 285
+      },
+      {
+        "date": "2024-10-14",
+        "net_revenue": 1222053.05,
+        "orders": 77,
+        "units": 318
+      },
+      {
+        "date": "2024-10-15",
+        "net_revenue": 832614.2,
+        "orders": 80,
+        "units": 287
+      },
+      {
+        "date": "2024-10-16",
+        "net_revenue": 731229.55,
+        "orders": 77,
+        "units": 322
+      },
+      {
+        "date": "2024-10-17",
+        "net_revenue": 760118.95,
+        "orders": 74,
+        "units": 269
+      },
+      {
+        "date": "2024-10-18",
+        "net_revenue": 975549.25,
+        "orders": 73,
+        "units": 251
+      },
+      {
+        "date": "2024-10-19",
+        "net_revenue": 602494.35,
+        "orders": 82,
+        "units": 255
+      },
+      {
+        "date": "2024-10-20",
+        "net_revenue": 876204.15,
+        "orders": 92,
+        "units": 332
+      },
+      {
+        "date": "2024-10-21",
+        "net_revenue": 543524.9,
+        "orders": 76,
+        "units": 309
+      },
+      {
+        "date": "2024-10-22",
+        "net_revenue": 759153.75,
+        "orders": 81,
+        "units": 295
+      },
+      {
+        "date": "2024-10-23",
+        "net_revenue": 795650.9,
+        "orders": 82,
+        "units": 332
+      },
+      {
+        "date": "2024-10-24",
+        "net_revenue": 938033.9,
+        "orders": 70,
+        "units": 247
+      },
+      {
+        "date": "2024-10-25",
+        "net_revenue": 588247.2,
+        "orders": 79,
+        "units": 300
+      },
+      {
+        "date": "2024-10-26",
+        "net_revenue": 732711.25,
+        "orders": 96,
+        "units": 340
+      },
+      {
+        "date": "2024-10-27",
+        "net_revenue": 758987.45,
+        "orders": 74,
+        "units": 220
+      },
+      {
+        "date": "2024-10-28",
+        "net_revenue": 848221.15,
+        "orders": 76,
+        "units": 285
+      },
+      {
+        "date": "2024-10-29",
+        "net_revenue": 831427.25,
+        "orders": 88,
+        "units": 307
+      },
+      {
+        "date": "2024-10-30",
+        "net_revenue": 700008.95,
+        "orders": 69,
+        "units": 240
+      },
+      {
+        "date": "2024-10-31",
+        "net_revenue": 603648.65,
+        "orders": 85,
+        "units": 298
+      },
+      {
+        "date": "2024-11-01",
+        "net_revenue": 694282.25,
+        "orders": 59,
+        "units": 236
+      },
+      {
+        "date": "2024-11-02",
+        "net_revenue": 859871.55,
+        "orders": 89,
+        "units": 316
+      },
+      {
+        "date": "2024-11-03",
+        "net_revenue": 793392.45,
+        "orders": 69,
+        "units": 231
+      },
+      {
+        "date": "2024-11-04",
+        "net_revenue": 786192.6,
+        "orders": 81,
+        "units": 306
+      },
+      {
+        "date": "2024-11-05",
+        "net_revenue": 529637.2,
+        "orders": 73,
+        "units": 272
+      },
+      {
+        "date": "2024-11-06",
+        "net_revenue": 351238.15,
+        "orders": 55,
+        "units": 245
+      },
+      {
+        "date": "2024-11-07",
+        "net_revenue": 1043759.2,
+        "orders": 72,
+        "units": 287
+      },
+      {
+        "date": "2024-11-08",
+        "net_revenue": 563395.6,
+        "orders": 81,
+        "units": 311
+      },
+      {
+        "date": "2024-11-09",
+        "net_revenue": 753736.25,
+        "orders": 77,
+        "units": 272
+      },
+      {
+        "date": "2024-11-10",
+        "net_revenue": 789114.85,
+        "orders": 85,
+        "units": 320
+      },
+      {
+        "date": "2024-11-11",
+        "net_revenue": 591803.7,
+        "orders": 65,
+        "units": 221
+      },
+      {
+        "date": "2024-11-12",
+        "net_revenue": 669291.1,
+        "orders": 69,
+        "units": 278
+      },
+      {
+        "date": "2024-11-13",
+        "net_revenue": 517220.4,
+        "orders": 63,
+        "units": 215
+      },
+      {
+        "date": "2024-11-14",
+        "net_revenue": 798839.75,
+        "orders": 73,
+        "units": 254
+      },
+      {
+        "date": "2024-11-15",
+        "net_revenue": 387415.05,
+        "orders": 65,
+        "units": 207
+      },
+      {
+        "date": "2024-11-16",
+        "net_revenue": 567733.25,
+        "orders": 77,
+        "units": 286
+      },
+      {
+        "date": "2024-11-17",
+        "net_revenue": 862755.6,
+        "orders": 93,
+        "units": 300
+      },
+      {
+        "date": "2024-11-18",
+        "net_revenue": 611164.65,
+        "orders": 74,
+        "units": 254
+      },
+      {
+        "date": "2024-11-19",
+        "net_revenue": 1063350.2,
+        "orders": 63,
+        "units": 215
+      },
+      {
+        "date": "2024-11-20",
+        "net_revenue": 1629710.2,
+        "orders": 88,
+        "units": 355
+      },
+      {
+        "date": "2024-11-21",
+        "net_revenue": 1032074.5,
+        "orders": 91,
+        "units": 371
+      },
+      {
+        "date": "2024-11-22",
+        "net_revenue": 441201.8,
+        "orders": 60,
+        "units": 244
+      },
+      {
+        "date": "2024-11-23",
+        "net_revenue": 977431.65,
+        "orders": 81,
+        "units": 300
+      },
+      {
+        "date": "2024-11-24",
+        "net_revenue": 668438.7,
+        "orders": 85,
+        "units": 314
+      },
+      {
+        "date": "2024-11-25",
+        "net_revenue": 750873.8,
+        "orders": 77,
+        "units": 294
+      },
+      {
+        "date": "2024-11-26",
+        "net_revenue": 384760.45,
+        "orders": 71,
+        "units": 254
+      },
+      {
+        "date": "2024-11-27",
+        "net_revenue": 564091.3,
+        "orders": 71,
+        "units": 279
+      },
+      {
+        "date": "2024-11-28",
+        "net_revenue": 733112.0,
+        "orders": 70,
+        "units": 259
+      },
+      {
+        "date": "2024-11-29",
+        "net_revenue": 513273.55,
+        "orders": 82,
+        "units": 291
+      },
+      {
+        "date": "2024-11-30",
+        "net_revenue": 1257343.65,
+        "orders": 92,
+        "units": 367
+      },
+      {
+        "date": "2024-12-01",
+        "net_revenue": 1163445.35,
+        "orders": 88,
+        "units": 342
+      },
+      {
+        "date": "2024-12-02",
+        "net_revenue": 578837.05,
+        "orders": 65,
+        "units": 236
+      },
+      {
+        "date": "2024-12-03",
+        "net_revenue": 594049.3,
+        "orders": 64,
+        "units": 252
+      },
+      {
+        "date": "2024-12-04",
+        "net_revenue": 578296.7,
+        "orders": 75,
+        "units": 290
+      },
+      {
+        "date": "2024-12-05",
+        "net_revenue": 696490.3,
+        "orders": 72,
+        "units": 258
+      },
+      {
+        "date": "2024-12-06",
+        "net_revenue": 476893.8,
+        "orders": 61,
+        "units": 207
+      },
+      {
+        "date": "2024-12-07",
+        "net_revenue": 537485.8,
+        "orders": 81,
+        "units": 302
+      },
+      {
+        "date": "2024-12-08",
+        "net_revenue": 473594.6,
+        "orders": 68,
+        "units": 279
+      },
+      {
+        "date": "2024-12-09",
+        "net_revenue": 507258.95,
+        "orders": 57,
+        "units": 244
+      },
+      {
+        "date": "2024-12-10",
+        "net_revenue": 694690.8,
+        "orders": 68,
+        "units": 283
+      },
+      {
+        "date": "2024-12-11",
+        "net_revenue": 314380.9,
+        "orders": 62,
+        "units": 226
+      },
+      {
+        "date": "2024-12-12",
+        "net_revenue": 573636.6,
+        "orders": 61,
+        "units": 266
+      },
+      {
+        "date": "2024-12-13",
+        "net_revenue": 619770.3,
+        "orders": 67,
+        "units": 272
+      },
+      {
+        "date": "2024-12-14",
+        "net_revenue": 1356513.4,
+        "orders": 84,
+        "units": 326
+      },
+      {
+        "date": "2024-12-15",
+        "net_revenue": 503833.2,
+        "orders": 70,
+        "units": 225
+      },
+      {
+        "date": "2024-12-16",
+        "net_revenue": 602552.4,
+        "orders": 57,
+        "units": 228
+      },
+      {
+        "date": "2024-12-17",
+        "net_revenue": 603264.7,
+        "orders": 63,
+        "units": 231
+      },
+      {
+        "date": "2024-12-18",
+        "net_revenue": 763281.4,
+        "orders": 61,
+        "units": 211
+      },
+      {
+        "date": "2024-12-19",
+        "net_revenue": 450228.75,
+        "orders": 58,
+        "units": 213
+      },
+      {
+        "date": "2024-12-20",
+        "net_revenue": 753890.1,
+        "orders": 57,
+        "units": 191
+      },
+      {
+        "date": "2024-12-21",
+        "net_revenue": 1427013.35,
+        "orders": 65,
+        "units": 249
+      },
+      {
+        "date": "2024-12-22",
+        "net_revenue": 643620.75,
+        "orders": 80,
+        "units": 268
+      },
+      {
+        "date": "2024-12-23",
+        "net_revenue": 920414.4,
+        "orders": 85,
+        "units": 339
+      },
+      {
+        "date": "2024-12-24",
+        "net_revenue": 965899.15,
+        "orders": 59,
+        "units": 217
+      },
+      {
+        "date": "2024-12-25",
+        "net_revenue": 596523.55,
+        "orders": 67,
+        "units": 236
+      },
+      {
+        "date": "2024-12-26",
+        "net_revenue": 655637.4,
+        "orders": 69,
+        "units": 272
+      },
+      {
+        "date": "2024-12-27",
+        "net_revenue": 741559.85,
+        "orders": 65,
+        "units": 239
+      },
+      {
+        "date": "2024-12-28",
+        "net_revenue": 644020.45,
+        "orders": 74,
+        "units": 259
+      },
+      {
+        "date": "2024-12-29",
+        "net_revenue": 836969.25,
+        "orders": 84,
+        "units": 319
+      },
+      {
+        "date": "2024-12-30",
+        "net_revenue": 1301160.65,
+        "orders": 69,
+        "units": 269
+      },
+      {
+        "date": "2024-12-31",
+        "net_revenue": 500852.2,
+        "orders": 58,
+        "units": 212
+      },
+      {
+        "date": "2025-01-01",
+        "net_revenue": 365042.4,
+        "orders": 54,
+        "units": 190
+      },
+      {
+        "date": "2025-01-02",
+        "net_revenue": 900264.8,
+        "orders": 51,
+        "units": 203
+      },
+      {
+        "date": "2025-01-03",
+        "net_revenue": 524032.85,
+        "orders": 49,
+        "units": 188
+      },
+      {
+        "date": "2025-01-04",
+        "net_revenue": 442001.7,
+        "orders": 64,
+        "units": 236
+      },
+      {
+        "date": "2025-01-05",
+        "net_revenue": 723235.0,
+        "orders": 54,
+        "units": 234
+      },
+      {
+        "date": "2025-01-06",
+        "net_revenue": 432393.95,
+        "orders": 44,
+        "units": 152
+      },
+      {
+        "date": "2025-01-07",
+        "net_revenue": 312989.35,
+        "orders": 45,
+        "units": 164
+      },
+      {
+        "date": "2025-01-08",
+        "net_revenue": 889757.5,
+        "orders": 50,
+        "units": 218
+      },
+      {
+        "date": "2025-01-09",
+        "net_revenue": 396602.05,
+        "orders": 48,
+        "units": 169
+      },
+      {
+        "date": "2025-01-10",
+        "net_revenue": 325837.7,
+        "orders": 47,
+        "units": 178
+      },
+      {
+        "date": "2025-01-11",
+        "net_revenue": 810816.25,
+        "orders": 61,
+        "units": 249
+      },
+      {
+        "date": "2025-01-12",
+        "net_revenue": 713331.75,
+        "orders": 52,
+        "units": 206
+      },
+      {
+        "date": "2025-01-13",
+        "net_revenue": 384728.9,
+        "orders": 52,
+        "units": 165
+      },
+      {
+        "date": "2025-01-14",
+        "net_revenue": 579185.45,
+        "orders": 56,
+        "units": 238
+      },
+      {
+        "date": "2025-01-15",
+        "net_revenue": 334774.6,
+        "orders": 51,
+        "units": 165
+      },
+      {
+        "date": "2025-01-16",
+        "net_revenue": 409295.5,
+        "orders": 49,
+        "units": 197
+      },
+      {
+        "date": "2025-01-17",
+        "net_revenue": 1085060.55,
+        "orders": 48,
+        "units": 197
+      },
+      {
+        "date": "2025-01-18",
+        "net_revenue": 329689.65,
+        "orders": 47,
+        "units": 185
+      },
+      {
+        "date": "2025-01-19",
+        "net_revenue": 733032.85,
+        "orders": 60,
+        "units": 253
+      },
+      {
+        "date": "2025-01-20",
+        "net_revenue": 524058.75,
+        "orders": 61,
+        "units": 257
+      },
+      {
+        "date": "2025-01-21",
+        "net_revenue": 1175321.05,
+        "orders": 65,
+        "units": 244
+      },
+      {
+        "date": "2025-01-22",
+        "net_revenue": 460129.9,
+        "orders": 38,
+        "units": 179
+      },
+      {
+        "date": "2025-01-23",
+        "net_revenue": 665983.2,
+        "orders": 46,
+        "units": 155
+      },
+      {
+        "date": "2025-01-24",
+        "net_revenue": 376233.65,
+        "orders": 51,
+        "units": 187
+      },
+      {
+        "date": "2025-01-25",
+        "net_revenue": 306617.1,
+        "orders": 51,
+        "units": 180
+      },
+      {
+        "date": "2025-01-26",
+        "net_revenue": 794564.65,
+        "orders": 72,
+        "units": 301
+      },
+      {
+        "date": "2025-01-27",
+        "net_revenue": 1046338.7,
+        "orders": 64,
+        "units": 237
+      },
+      {
+        "date": "2025-01-28",
+        "net_revenue": 445445.5,
+        "orders": 51,
+        "units": 219
+      },
+      {
+        "date": "2025-01-29",
+        "net_revenue": 509224.75,
+        "orders": 59,
+        "units": 182
+      },
+      {
+        "date": "2025-01-30",
+        "net_revenue": 388111.55,
+        "orders": 59,
+        "units": 207
+      },
+      {
+        "date": "2025-01-31",
+        "net_revenue": 202784.3,
+        "orders": 36,
+        "units": 107
+      },
+      {
+        "date": "2025-02-01",
+        "net_revenue": 729449.45,
+        "orders": 56,
+        "units": 229
+      },
+      {
+        "date": "2025-02-02",
+        "net_revenue": 581617.2,
+        "orders": 50,
+        "units": 193
+      },
+      {
+        "date": "2025-02-03",
+        "net_revenue": 372143.65,
+        "orders": 43,
+        "units": 161
+      },
+      {
+        "date": "2025-02-04",
+        "net_revenue": 614330.65,
+        "orders": 53,
+        "units": 194
+      },
+      {
+        "date": "2025-02-05",
+        "net_revenue": 434803.3,
+        "orders": 57,
+        "units": 201
+      },
+      {
+        "date": "2025-02-06",
+        "net_revenue": 677218.8,
+        "orders": 66,
+        "units": 254
+      },
+      {
+        "date": "2025-02-07",
+        "net_revenue": 406341.65,
+        "orders": 44,
+        "units": 171
+      },
+      {
+        "date": "2025-02-08",
+        "net_revenue": 472189.6,
+        "orders": 46,
+        "units": 180
+      },
+      {
+        "date": "2025-02-09",
+        "net_revenue": 654062.85,
+        "orders": 51,
+        "units": 177
+      },
+      {
+        "date": "2025-02-10",
+        "net_revenue": 382190.55,
+        "orders": 47,
+        "units": 188
+      },
+      {
+        "date": "2025-02-11",
+        "net_revenue": 423538.55,
+        "orders": 47,
+        "units": 196
+      },
+      {
+        "date": "2025-02-12",
+        "net_revenue": 572422.7,
+        "orders": 49,
+        "units": 210
+      },
+      {
+        "date": "2025-02-13",
+        "net_revenue": 588510.9,
+        "orders": 53,
+        "units": 201
+      },
+      {
+        "date": "2025-02-14",
+        "net_revenue": 563497.2,
+        "orders": 54,
+        "units": 190
+      },
+      {
+        "date": "2025-02-15",
+        "net_revenue": 589705.95,
+        "orders": 49,
+        "units": 184
+      },
+      {
+        "date": "2025-02-16",
+        "net_revenue": 597249.8,
+        "orders": 57,
+        "units": 220
+      },
+      {
+        "date": "2025-02-17",
+        "net_revenue": 228421.45,
+        "orders": 38,
+        "units": 129
+      },
+      {
+        "date": "2025-02-18",
+        "net_revenue": 351692.85,
+        "orders": 39,
+        "units": 117
+      },
+      {
+        "date": "2025-02-19",
+        "net_revenue": 860477.45,
+        "orders": 55,
+        "units": 196
+      },
+      {
+        "date": "2025-02-20",
+        "net_revenue": 407109.7,
+        "orders": 47,
+        "units": 183
+      },
+      {
+        "date": "2025-02-21",
+        "net_revenue": 479849.7,
+        "orders": 61,
+        "units": 207
+      },
+      {
+        "date": "2025-02-22",
+        "net_revenue": 643711.85,
+        "orders": 68,
+        "units": 239
+      },
+      {
+        "date": "2025-02-23",
+        "net_revenue": 467467.5,
+        "orders": 58,
+        "units": 227
+      },
+      {
+        "date": "2025-02-24",
+        "net_revenue": 570662.9,
+        "orders": 53,
+        "units": 209
+      },
+      {
+        "date": "2025-02-25",
+        "net_revenue": 474737.3,
+        "orders": 49,
+        "units": 205
+      },
+      {
+        "date": "2025-02-26",
+        "net_revenue": 531352.1,
+        "orders": 56,
+        "units": 203
+      },
+      {
+        "date": "2025-02-27",
+        "net_revenue": 744237.75,
+        "orders": 53,
+        "units": 241
+      },
+      {
+        "date": "2025-02-28",
+        "net_revenue": 559986.4,
+        "orders": 59,
+        "units": 212
+      },
+      {
+        "date": "2025-03-01",
+        "net_revenue": 1120750.1,
+        "orders": 80,
+        "units": 331
+      },
+      {
+        "date": "2025-03-02",
+        "net_revenue": 493574.75,
+        "orders": 56,
+        "units": 209
+      },
+      {
+        "date": "2025-03-03",
+        "net_revenue": 875478.65,
+        "orders": 53,
+        "units": 219
+      },
+      {
+        "date": "2025-03-04",
+        "net_revenue": 346286.0,
+        "orders": 54,
+        "units": 207
+      },
+      {
+        "date": "2025-03-05",
+        "net_revenue": 741239.3,
+        "orders": 57,
+        "units": 229
+      },
+      {
+        "date": "2025-03-06",
+        "net_revenue": 765250.15,
+        "orders": 44,
+        "units": 170
+      },
+      {
+        "date": "2025-03-07",
+        "net_revenue": 331572.5,
+        "orders": 51,
+        "units": 144
+      },
+      {
+        "date": "2025-03-08",
+        "net_revenue": 392945.6,
+        "orders": 61,
+        "units": 230
+      },
+      {
+        "date": "2025-03-09",
+        "net_revenue": 644816.1,
+        "orders": 68,
+        "units": 209
+      },
+      {
+        "date": "2025-03-10",
+        "net_revenue": 625692.9,
+        "orders": 54,
+        "units": 211
+      },
+      {
+        "date": "2025-03-11",
+        "net_revenue": 872105.65,
+        "orders": 56,
+        "units": 229
+      },
+      {
+        "date": "2025-03-12",
+        "net_revenue": 754801.4,
+        "orders": 74,
+        "units": 281
+      },
+      {
+        "date": "2025-03-13",
+        "net_revenue": 457592.95,
+        "orders": 53,
+        "units": 168
+      },
+      {
+        "date": "2025-03-14",
+        "net_revenue": 556590.55,
+        "orders": 55,
+        "units": 235
+      },
+      {
+        "date": "2025-03-15",
+        "net_revenue": 831854.0,
+        "orders": 67,
+        "units": 242
+      },
+      {
+        "date": "2025-03-16",
+        "net_revenue": 422544.7,
+        "orders": 60,
+        "units": 213
+      },
+      {
+        "date": "2025-03-17",
+        "net_revenue": 547086.8,
+        "orders": 68,
+        "units": 237
+      },
+      {
+        "date": "2025-03-18",
+        "net_revenue": 497635.35,
+        "orders": 51,
+        "units": 210
+      },
+      {
+        "date": "2025-03-19",
+        "net_revenue": 644662.85,
+        "orders": 53,
+        "units": 174
+      },
+      {
+        "date": "2025-03-20",
+        "net_revenue": 621862.2,
+        "orders": 63,
+        "units": 253
+      },
+      {
+        "date": "2025-03-21",
+        "net_revenue": 412211.05,
+        "orders": 51,
+        "units": 181
+      },
+      {
+        "date": "2025-03-22",
+        "net_revenue": 686271.9,
+        "orders": 76,
+        "units": 273
+      },
+      {
+        "date": "2025-03-23",
+        "net_revenue": 710422.3,
+        "orders": 64,
+        "units": 238
+      },
+      {
+        "date": "2025-03-24",
+        "net_revenue": 868426.7,
+        "orders": 61,
+        "units": 240
+      },
+      {
+        "date": "2025-03-25",
+        "net_revenue": 444865.25,
+        "orders": 61,
+        "units": 232
+      },
+      {
+        "date": "2025-03-26",
+        "net_revenue": 574150.2,
+        "orders": 68,
+        "units": 251
+      },
+      {
+        "date": "2025-03-27",
+        "net_revenue": 842107.1,
+        "orders": 58,
+        "units": 214
+      },
+      {
+        "date": "2025-03-28",
+        "net_revenue": 483640.85,
+        "orders": 62,
+        "units": 242
+      },
+      {
+        "date": "2025-03-29",
+        "net_revenue": 498265.1,
+        "orders": 63,
+        "units": 248
+      },
+      {
+        "date": "2025-03-30",
+        "net_revenue": 515671.05,
+        "orders": 51,
+        "units": 207
+      },
+      {
+        "date": "2025-03-31",
+        "net_revenue": 672052.1,
+        "orders": 57,
+        "units": 235
+      },
+      {
+        "date": "2025-04-01",
+        "net_revenue": 679249.4,
+        "orders": 61,
+        "units": 247
+      },
+      {
+        "date": "2025-04-02",
+        "net_revenue": 733603.45,
+        "orders": 46,
+        "units": 187
+      },
+      {
+        "date": "2025-04-03",
+        "net_revenue": 317712.9,
+        "orders": 40,
+        "units": 137
+      },
+      {
+        "date": "2025-04-04",
+        "net_revenue": 521095.25,
+        "orders": 62,
+        "units": 211
+      },
+      {
+        "date": "2025-04-05",
+        "net_revenue": 997068.25,
+        "orders": 69,
+        "units": 324
+      },
+      {
+        "date": "2025-04-06",
+        "net_revenue": 582889.95,
+        "orders": 62,
+        "units": 180
+      },
+      {
+        "date": "2025-04-07",
+        "net_revenue": 704297.55,
+        "orders": 58,
+        "units": 204
+      },
+      {
+        "date": "2025-04-08",
+        "net_revenue": 672775.9,
+        "orders": 45,
+        "units": 180
+      },
+      {
+        "date": "2025-04-09",
+        "net_revenue": 564891.95,
+        "orders": 53,
+        "units": 239
+      },
+      {
+        "date": "2025-04-10",
+        "net_revenue": 372753.65,
+        "orders": 56,
+        "units": 198
+      },
+      {
+        "date": "2025-04-11",
+        "net_revenue": 500697.55,
+        "orders": 45,
+        "units": 158
+      },
+      {
+        "date": "2025-04-12",
+        "net_revenue": 366828.75,
+        "orders": 51,
+        "units": 176
+      },
+      {
+        "date": "2025-04-13",
+        "net_revenue": 589166.15,
+        "orders": 63,
+        "units": 221
+      },
+      {
+        "date": "2025-04-14",
+        "net_revenue": 373297.7,
+        "orders": 53,
+        "units": 182
+      },
+      {
+        "date": "2025-04-15",
+        "net_revenue": 560615.95,
+        "orders": 63,
+        "units": 245
+      },
+      {
+        "date": "2025-04-16",
+        "net_revenue": 486906.25,
+        "orders": 52,
+        "units": 172
+      },
+      {
+        "date": "2025-04-17",
+        "net_revenue": 584984.85,
+        "orders": 54,
+        "units": 198
+      },
+      {
+        "date": "2025-04-18",
+        "net_revenue": 621513.95,
+        "orders": 63,
+        "units": 288
+      },
+      {
+        "date": "2025-04-19",
+        "net_revenue": 630014.25,
+        "orders": 73,
+        "units": 293
+      },
+      {
+        "date": "2025-04-20",
+        "net_revenue": 595753.05,
+        "orders": 55,
+        "units": 199
+      },
+      {
+        "date": "2025-04-21",
+        "net_revenue": 924335.1,
+        "orders": 62,
+        "units": 218
+      },
+      {
+        "date": "2025-04-22",
+        "net_revenue": 384229.4,
+        "orders": 58,
+        "units": 212
+      },
+      {
+        "date": "2025-04-23",
+        "net_revenue": 326878.65,
+        "orders": 46,
+        "units": 170
+      },
+      {
+        "date": "2025-04-24",
+        "net_revenue": 751943.55,
+        "orders": 59,
+        "units": 190
+      },
+      {
+        "date": "2025-04-25",
+        "net_revenue": 354570.6,
+        "orders": 44,
+        "units": 157
+      },
+      {
+        "date": "2025-04-26",
+        "net_revenue": 857954.25,
+        "orders": 79,
+        "units": 310
+      },
+      {
+        "date": "2025-04-27",
+        "net_revenue": 437990.4,
+        "orders": 70,
+        "units": 246
+      },
+      {
+        "date": "2025-04-28",
+        "net_revenue": 832792.4,
+        "orders": 48,
+        "units": 191
+      },
+      {
+        "date": "2025-04-29",
+        "net_revenue": 464477.35,
+        "orders": 51,
+        "units": 157
+      },
+      {
+        "date": "2025-04-30",
+        "net_revenue": 1279824.7,
+        "orders": 72,
+        "units": 318
+      },
+      {
+        "date": "2025-05-01",
+        "net_revenue": 810714.6,
+        "orders": 67,
+        "units": 266
+      },
+      {
+        "date": "2025-05-02",
+        "net_revenue": 696203.7,
+        "orders": 55,
+        "units": 207
+      },
+      {
+        "date": "2025-05-03",
+        "net_revenue": 728582.25,
+        "orders": 73,
+        "units": 295
+      },
+      {
+        "date": "2025-05-04",
+        "net_revenue": 515384.25,
+        "orders": 54,
+        "units": 179
+      },
+      {
+        "date": "2025-05-05",
+        "net_revenue": 427603.65,
+        "orders": 55,
+        "units": 214
+      },
+      {
+        "date": "2025-05-06",
+        "net_revenue": 494492.25,
+        "orders": 60,
+        "units": 224
+      },
+      {
+        "date": "2025-05-07",
+        "net_revenue": 455235.35,
+        "orders": 63,
+        "units": 221
+      },
+      {
+        "date": "2025-05-08",
+        "net_revenue": 703502.85,
+        "orders": 56,
+        "units": 213
+      },
+      {
+        "date": "2025-05-09",
+        "net_revenue": 690252.75,
+        "orders": 68,
+        "units": 273
+      },
+      {
+        "date": "2025-05-10",
+        "net_revenue": 609826.3,
+        "orders": 70,
+        "units": 271
+      },
+      {
+        "date": "2025-05-11",
+        "net_revenue": 1021482.5,
+        "orders": 77,
+        "units": 309
+      },
+      {
+        "date": "2025-05-12",
+        "net_revenue": 455414.2,
+        "orders": 70,
+        "units": 249
+      },
+      {
+        "date": "2025-05-13",
+        "net_revenue": 401933.75,
+        "orders": 56,
+        "units": 192
+      },
+      {
+        "date": "2025-05-14",
+        "net_revenue": 762597.0,
+        "orders": 79,
+        "units": 310
+      },
+      {
+        "date": "2025-05-15",
+        "net_revenue": 618952.75,
+        "orders": 61,
+        "units": 194
+      },
+      {
+        "date": "2025-05-16",
+        "net_revenue": 524574.75,
+        "orders": 70,
+        "units": 256
+      },
+      {
+        "date": "2025-05-17",
+        "net_revenue": 1075737.7,
+        "orders": 78,
+        "units": 306
+      },
+      {
+        "date": "2025-05-18",
+        "net_revenue": 553704.85,
+        "orders": 64,
+        "units": 260
+      },
+      {
+        "date": "2025-05-19",
+        "net_revenue": 577407.05,
+        "orders": 64,
+        "units": 253
+      },
+      {
+        "date": "2025-05-20",
+        "net_revenue": 464025.5,
+        "orders": 61,
+        "units": 207
+      },
+      {
+        "date": "2025-05-21",
+        "net_revenue": 417270.3,
+        "orders": 64,
+        "units": 223
+      },
+      {
+        "date": "2025-05-22",
+        "net_revenue": 531011.8,
+        "orders": 57,
+        "units": 226
+      },
+      {
+        "date": "2025-05-23",
+        "net_revenue": 360297.85,
+        "orders": 49,
+        "units": 160
+      },
+      {
+        "date": "2025-05-24",
+        "net_revenue": 430349.7,
+        "orders": 66,
+        "units": 224
+      },
+      {
+        "date": "2025-05-25",
+        "net_revenue": 787295.05,
+        "orders": 79,
+        "units": 306
+      },
+      {
+        "date": "2025-05-26",
+        "net_revenue": 616222.75,
+        "orders": 67,
+        "units": 252
+      },
+      {
+        "date": "2025-05-27",
+        "net_revenue": 535909.0,
+        "orders": 61,
+        "units": 238
+      },
+      {
+        "date": "2025-05-28",
+        "net_revenue": 661346.95,
+        "orders": 83,
+        "units": 303
+      },
+      {
+        "date": "2025-05-29",
+        "net_revenue": 401906.05,
+        "orders": 49,
+        "units": 186
+      },
+      {
+        "date": "2025-05-30",
+        "net_revenue": 839125.65,
+        "orders": 64,
+        "units": 244
+      },
+      {
+        "date": "2025-05-31",
+        "net_revenue": 662258.4,
+        "orders": 69,
+        "units": 249
+      },
+      {
+        "date": "2025-06-01",
+        "net_revenue": 719904.35,
+        "orders": 71,
+        "units": 239
+      },
+      {
+        "date": "2025-06-02",
+        "net_revenue": 543123.6,
+        "orders": 58,
+        "units": 235
+      },
+      {
+        "date": "2025-06-03",
+        "net_revenue": 471210.25,
+        "orders": 62,
+        "units": 223
+      },
+      {
+        "date": "2025-06-04",
+        "net_revenue": 544009.05,
+        "orders": 46,
+        "units": 188
+      },
+      {
+        "date": "2025-06-05",
+        "net_revenue": 594276.05,
+        "orders": 50,
+        "units": 188
+      },
+      {
+        "date": "2025-06-06",
+        "net_revenue": 407950.35,
+        "orders": 55,
+        "units": 182
+      },
+      {
+        "date": "2025-06-07",
+        "net_revenue": 633773.0,
+        "orders": 62,
+        "units": 238
+      },
+      {
+        "date": "2025-06-08",
+        "net_revenue": 911997.35,
+        "orders": 74,
+        "units": 321
+      },
+      {
+        "date": "2025-06-09",
+        "net_revenue": 598874.75,
+        "orders": 60,
+        "units": 226
+      },
+      {
+        "date": "2025-06-10",
+        "net_revenue": 439689.85,
+        "orders": 52,
+        "units": 211
+      },
+      {
+        "date": "2025-06-11",
+        "net_revenue": 560307.0,
+        "orders": 54,
+        "units": 201
+      },
+      {
+        "date": "2025-06-12",
+        "net_revenue": 717452.5,
+        "orders": 57,
+        "units": 215
+      },
+      {
+        "date": "2025-06-13",
+        "net_revenue": 486968.65,
+        "orders": 52,
+        "units": 191
+      },
+      {
+        "date": "2025-06-14",
+        "net_revenue": 759302.4,
+        "orders": 59,
+        "units": 209
+      },
+      {
+        "date": "2025-06-15",
+        "net_revenue": 484044.75,
+        "orders": 63,
+        "units": 245
+      },
+      {
+        "date": "2025-06-16",
+        "net_revenue": 392249.4,
+        "orders": 64,
+        "units": 228
+      },
+      {
+        "date": "2025-06-17",
+        "net_revenue": 335917.75,
+        "orders": 48,
+        "units": 154
+      },
+      {
+        "date": "2025-06-18",
+        "net_revenue": 334657.8,
+        "orders": 60,
+        "units": 207
+      },
+      {
+        "date": "2025-06-19",
+        "net_revenue": 569326.3,
+        "orders": 41,
+        "units": 130
+      },
+      {
+        "date": "2025-06-20",
+        "net_revenue": 691895.35,
+        "orders": 47,
+        "units": 190
+      },
+      {
+        "date": "2025-06-21",
+        "net_revenue": 1042601.5,
+        "orders": 54,
+        "units": 199
+      },
+      {
+        "date": "2025-06-22",
+        "net_revenue": 800935.7,
+        "orders": 76,
+        "units": 291
+      },
+      {
+        "date": "2025-06-23",
+        "net_revenue": 549196.0,
+        "orders": 55,
+        "units": 246
+      },
+      {
+        "date": "2025-06-24",
+        "net_revenue": 705415.9,
+        "orders": 66,
+        "units": 238
+      },
+      {
+        "date": "2025-06-25",
+        "net_revenue": 552847.95,
+        "orders": 42,
+        "units": 144
+      },
+      {
+        "date": "2025-06-26",
+        "net_revenue": 645218.45,
+        "orders": 53,
+        "units": 210
+      },
+      {
+        "date": "2025-06-27",
+        "net_revenue": 279722.8,
+        "orders": 50,
+        "units": 152
+      },
+      {
+        "date": "2025-06-28",
+        "net_revenue": 694569.4,
+        "orders": 77,
+        "units": 267
+      },
+      {
+        "date": "2025-06-29",
+        "net_revenue": 339972.3,
+        "orders": 46,
+        "units": 172
+      },
+      {
+        "date": "2025-06-30",
+        "net_revenue": 496598.95,
+        "orders": 49,
+        "units": 175
+      },
+      {
+        "date": "2025-07-01",
+        "net_revenue": 576062.15,
+        "orders": 54,
+        "units": 204
+      },
+      {
+        "date": "2025-07-02",
+        "net_revenue": 756546.6,
+        "orders": 53,
+        "units": 190
+      },
+      {
+        "date": "2025-07-03",
+        "net_revenue": 922945.1,
+        "orders": 65,
+        "units": 224
+      },
+      {
+        "date": "2025-07-04",
+        "net_revenue": 529967.3,
+        "orders": 56,
+        "units": 201
+      },
+      {
+        "date": "2025-07-05",
+        "net_revenue": 487003.25,
+        "orders": 60,
+        "units": 237
+      },
+      {
+        "date": "2025-07-06",
+        "net_revenue": 463038.65,
+        "orders": 57,
+        "units": 214
+      },
+      {
+        "date": "2025-07-07",
+        "net_revenue": 291808.1,
+        "orders": 45,
+        "units": 163
+      },
+      {
+        "date": "2025-07-08",
+        "net_revenue": 555601.45,
+        "orders": 55,
+        "units": 206
+      },
+      {
+        "date": "2025-07-09",
+        "net_revenue": 496173.6,
+        "orders": 57,
+        "units": 219
+      },
+      {
+        "date": "2025-07-10",
+        "net_revenue": 517571.65,
+        "orders": 62,
+        "units": 223
+      },
+      {
+        "date": "2025-07-11",
+        "net_revenue": 416332.75,
+        "orders": 55,
+        "units": 202
+      },
+      {
+        "date": "2025-07-12",
+        "net_revenue": 454363.9,
+        "orders": 51,
+        "units": 169
+      },
+      {
+        "date": "2025-07-13",
+        "net_revenue": 622788.75,
+        "orders": 56,
+        "units": 231
+      },
+      {
+        "date": "2025-07-14",
+        "net_revenue": 431924.2,
+        "orders": 62,
+        "units": 236
+      },
+      {
+        "date": "2025-07-15",
+        "net_revenue": 546073.75,
+        "orders": 53,
+        "units": 178
+      },
+      {
+        "date": "2025-07-16",
+        "net_revenue": 586890.75,
+        "orders": 51,
+        "units": 201
+      },
+      {
+        "date": "2025-07-17",
+        "net_revenue": 856251.55,
+        "orders": 69,
+        "units": 254
+      },
+      {
+        "date": "2025-07-18",
+        "net_revenue": 845608.45,
+        "orders": 55,
+        "units": 211
+      },
+      {
+        "date": "2025-07-19",
+        "net_revenue": 775875.25,
+        "orders": 73,
+        "units": 265
+      },
+      {
+        "date": "2025-07-20",
+        "net_revenue": 341808.1,
+        "orders": 57,
+        "units": 193
+      },
+      {
+        "date": "2025-07-21",
+        "net_revenue": 608744.8,
+        "orders": 54,
+        "units": 200
+      },
+      {
+        "date": "2025-07-22",
+        "net_revenue": 681999.4,
+        "orders": 55,
+        "units": 218
+      },
+      {
+        "date": "2025-07-23",
+        "net_revenue": 842854.65,
+        "orders": 53,
+        "units": 252
+      },
+      {
+        "date": "2025-07-24",
+        "net_revenue": 604704.05,
+        "orders": 61,
+        "units": 226
+      },
+      {
+        "date": "2025-07-25",
+        "net_revenue": 336659.95,
+        "orders": 50,
+        "units": 196
+      },
+      {
+        "date": "2025-07-26",
+        "net_revenue": 475342.1,
+        "orders": 61,
+        "units": 223
+      },
+      {
+        "date": "2025-07-27",
+        "net_revenue": 495981.65,
+        "orders": 56,
+        "units": 201
+      },
+      {
+        "date": "2025-07-28",
+        "net_revenue": 376921.8,
+        "orders": 57,
+        "units": 217
+      },
+      {
+        "date": "2025-07-29",
+        "net_revenue": 312303.3,
+        "orders": 54,
+        "units": 213
+      },
+      {
+        "date": "2025-07-30",
+        "net_revenue": 434381.65,
+        "orders": 54,
+        "units": 204
+      },
+      {
+        "date": "2025-07-31",
+        "net_revenue": 451765.9,
+        "orders": 57,
+        "units": 193
+      },
+      {
+        "date": "2025-08-01",
+        "net_revenue": 771442.0,
+        "orders": 65,
+        "units": 228
+      },
+      {
+        "date": "2025-08-02",
+        "net_revenue": 590692.55,
+        "orders": 69,
+        "units": 233
+      },
+      {
+        "date": "2025-08-03",
+        "net_revenue": 719230.2,
+        "orders": 80,
+        "units": 297
+      },
+      {
+        "date": "2025-08-04",
+        "net_revenue": 399168.8,
+        "orders": 55,
+        "units": 207
+      },
+      {
+        "date": "2025-08-05",
+        "net_revenue": 874856.1,
+        "orders": 57,
+        "units": 230
+      },
+      {
+        "date": "2025-08-06",
+        "net_revenue": 557274.6,
+        "orders": 48,
+        "units": 193
+      },
+      {
+        "date": "2025-08-07",
+        "net_revenue": 657432.45,
+        "orders": 73,
+        "units": 287
+      },
+      {
+        "date": "2025-08-08",
+        "net_revenue": 730874.5,
+        "orders": 75,
+        "units": 287
+      },
+      {
+        "date": "2025-08-09",
+        "net_revenue": 919144.1,
+        "orders": 87,
+        "units": 313
+      },
+      {
+        "date": "2025-08-10",
+        "net_revenue": 667563.6,
+        "orders": 62,
+        "units": 249
+      },
+      {
+        "date": "2025-08-11",
+        "net_revenue": 471045.8,
+        "orders": 55,
+        "units": 210
+      },
+      {
+        "date": "2025-08-12",
+        "net_revenue": 632186.95,
+        "orders": 65,
+        "units": 238
+      },
+      {
+        "date": "2025-08-13",
+        "net_revenue": 703043.1,
+        "orders": 71,
+        "units": 260
+      },
+      {
+        "date": "2025-08-14",
+        "net_revenue": 797696.05,
+        "orders": 59,
+        "units": 242
+      },
+      {
+        "date": "2025-08-15",
+        "net_revenue": 645348.95,
+        "orders": 70,
+        "units": 264
+      },
+      {
+        "date": "2025-08-16",
+        "net_revenue": 634090.4,
+        "orders": 60,
+        "units": 235
+      },
+      {
+        "date": "2025-08-17",
+        "net_revenue": 720432.85,
+        "orders": 74,
+        "units": 307
+      },
+      {
+        "date": "2025-08-18",
+        "net_revenue": 457764.25,
+        "orders": 60,
+        "units": 233
+      },
+      {
+        "date": "2025-08-19",
+        "net_revenue": 897254.3,
+        "orders": 68,
+        "units": 232
+      },
+      {
+        "date": "2025-08-20",
+        "net_revenue": 475693.15,
+        "orders": 68,
+        "units": 245
+      },
+      {
+        "date": "2025-08-21",
+        "net_revenue": 439253.35,
+        "orders": 65,
+        "units": 248
+      },
+      {
+        "date": "2025-08-22",
+        "net_revenue": 419751.25,
+        "orders": 55,
+        "units": 224
+      },
+      {
+        "date": "2025-08-23",
+        "net_revenue": 926075.35,
+        "orders": 70,
+        "units": 260
+      },
+      {
+        "date": "2025-08-24",
+        "net_revenue": 635973.55,
+        "orders": 81,
+        "units": 301
+      },
+      {
+        "date": "2025-08-25",
+        "net_revenue": 724956.45,
+        "orders": 79,
+        "units": 289
+      },
+      {
+        "date": "2025-08-26",
+        "net_revenue": 614752.4,
+        "orders": 72,
+        "units": 265
+      },
+      {
+        "date": "2025-08-27",
+        "net_revenue": 530734.75,
+        "orders": 60,
+        "units": 227
+      },
+      {
+        "date": "2025-08-28",
+        "net_revenue": 668410.35,
+        "orders": 64,
+        "units": 278
+      },
+      {
+        "date": "2025-08-29",
+        "net_revenue": 823257.4,
+        "orders": 78,
+        "units": 293
+      },
+      {
+        "date": "2025-08-30",
+        "net_revenue": 881655.05,
+        "orders": 73,
+        "units": 288
+      },
+      {
+        "date": "2025-08-31",
+        "net_revenue": 975961.45,
+        "orders": 74,
+        "units": 288
+      },
+      {
+        "date": "2025-09-01",
+        "net_revenue": 920387.25,
+        "orders": 86,
+        "units": 336
+      },
+      {
+        "date": "2025-09-02",
+        "net_revenue": 546734.3,
+        "orders": 43,
+        "units": 175
+      },
+      {
+        "date": "2025-09-03",
+        "net_revenue": 500368.15,
+        "orders": 63,
+        "units": 236
+      },
+      {
+        "date": "2025-09-04",
+        "net_revenue": 1292301.15,
+        "orders": 73,
+        "units": 290
+      },
+      {
+        "date": "2025-09-05",
+        "net_revenue": 638733.35,
+        "orders": 67,
+        "units": 269
+      },
+      {
+        "date": "2025-09-06",
+        "net_revenue": 488898.85,
+        "orders": 75,
+        "units": 290
+      },
+      {
+        "date": "2025-09-07",
+        "net_revenue": 615309.6,
+        "orders": 81,
+        "units": 271
+      },
+      {
+        "date": "2025-09-08",
+        "net_revenue": 419482.3,
+        "orders": 65,
+        "units": 212
+      },
+      {
+        "date": "2025-09-09",
+        "net_revenue": 563793.4,
+        "orders": 65,
+        "units": 227
+      },
+      {
+        "date": "2025-09-10",
+        "net_revenue": 952195.3,
+        "orders": 70,
+        "units": 264
+      },
+      {
+        "date": "2025-09-11",
+        "net_revenue": 544288.05,
+        "orders": 66,
+        "units": 237
+      },
+      {
+        "date": "2025-09-12",
+        "net_revenue": 888524.05,
+        "orders": 86,
+        "units": 340
+      },
+      {
+        "date": "2025-09-13",
+        "net_revenue": 1285988.7,
+        "orders": 76,
+        "units": 288
+      },
+      {
+        "date": "2025-09-14",
+        "net_revenue": 752643.7,
+        "orders": 73,
+        "units": 252
+      },
+      {
+        "date": "2025-09-15",
+        "net_revenue": 676809.35,
+        "orders": 80,
+        "units": 307
+      },
+      {
+        "date": "2025-09-16",
+        "net_revenue": 685891.3,
+        "orders": 64,
+        "units": 249
+      },
+      {
+        "date": "2025-09-17",
+        "net_revenue": 1008486.3,
+        "orders": 74,
+        "units": 298
+      },
+      {
+        "date": "2025-09-18",
+        "net_revenue": 626554.2,
+        "orders": 71,
+        "units": 233
+      },
+      {
+        "date": "2025-09-19",
+        "net_revenue": 974296.9,
+        "orders": 73,
+        "units": 278
+      },
+      {
+        "date": "2025-09-20",
+        "net_revenue": 781421.35,
+        "orders": 92,
+        "units": 331
+      },
+      {
+        "date": "2025-09-21",
+        "net_revenue": 851095.0,
+        "orders": 75,
+        "units": 298
+      },
+      {
+        "date": "2025-09-22",
+        "net_revenue": 1113980.95,
+        "orders": 68,
+        "units": 252
+      },
+      {
+        "date": "2025-09-23",
+        "net_revenue": 708361.2,
+        "orders": 72,
+        "units": 289
+      },
+      {
+        "date": "2025-09-24",
+        "net_revenue": 592252.6,
+        "orders": 71,
+        "units": 258
+      },
+      {
+        "date": "2025-09-25",
+        "net_revenue": 675667.4,
+        "orders": 66,
+        "units": 245
+      },
+      {
+        "date": "2025-09-26",
+        "net_revenue": 682869.85,
+        "orders": 78,
+        "units": 275
+      },
+      {
+        "date": "2025-09-27",
+        "net_revenue": 765750.85,
+        "orders": 80,
+        "units": 303
+      },
+      {
+        "date": "2025-09-28",
+        "net_revenue": 696981.9,
+        "orders": 89,
+        "units": 344
+      },
+      {
+        "date": "2025-09-29",
+        "net_revenue": 819413.2,
+        "orders": 72,
+        "units": 246
+      },
+      {
+        "date": "2025-09-30",
+        "net_revenue": 1138794.15,
+        "orders": 88,
+        "units": 352
+      },
+      {
+        "date": "2025-10-01",
+        "net_revenue": 848130.9,
+        "orders": 71,
+        "units": 251
+      },
+      {
+        "date": "2025-10-02",
+        "net_revenue": 1213506.05,
+        "orders": 104,
+        "units": 387
+      },
+      {
+        "date": "2025-10-03",
+        "net_revenue": 984475.4,
+        "orders": 96,
+        "units": 365
+      },
+      {
+        "date": "2025-10-04",
+        "net_revenue": 1166278.25,
+        "orders": 108,
+        "units": 413
+      },
+      {
+        "date": "2025-10-05",
+        "net_revenue": 724502.05,
+        "orders": 109,
+        "units": 354
+      },
+      {
+        "date": "2025-10-06",
+        "net_revenue": 888959.75,
+        "orders": 97,
+        "units": 335
+      },
+      {
+        "date": "2025-10-07",
+        "net_revenue": 1135693.8,
+        "orders": 88,
+        "units": 321
+      },
+      {
+        "date": "2025-10-08",
+        "net_revenue": 943046.45,
+        "orders": 82,
+        "units": 305
+      },
+      {
+        "date": "2025-10-09",
+        "net_revenue": 629032.8,
+        "orders": 73,
+        "units": 265
+      },
+      {
+        "date": "2025-10-10",
+        "net_revenue": 1193635.2,
+        "orders": 101,
+        "units": 376
+      },
+      {
+        "date": "2025-10-11",
+        "net_revenue": 1456998.2,
+        "orders": 96,
+        "units": 353
+      },
+      {
+        "date": "2025-10-12",
+        "net_revenue": 1311240.45,
+        "orders": 120,
+        "units": 459
+      },
+      {
+        "date": "2025-10-13",
+        "net_revenue": 1644705.8,
+        "orders": 95,
+        "units": 361
+      },
+      {
+        "date": "2025-10-14",
+        "net_revenue": 1044937.05,
+        "orders": 85,
+        "units": 306
+      },
+      {
+        "date": "2025-10-15",
+        "net_revenue": 1130597.5,
+        "orders": 92,
+        "units": 348
+      },
+      {
+        "date": "2025-10-16",
+        "net_revenue": 973503.35,
+        "orders": 75,
+        "units": 292
+      },
+      {
+        "date": "2025-10-17",
+        "net_revenue": 874578.5,
+        "orders": 100,
+        "units": 381
+      },
+      {
+        "date": "2025-10-18",
+        "net_revenue": 915559.65,
+        "orders": 98,
+        "units": 369
+      },
+      {
+        "date": "2025-10-19",
+        "net_revenue": 732832.35,
+        "orders": 89,
+        "units": 354
+      },
+      {
+        "date": "2025-10-20",
+        "net_revenue": 823036.2,
+        "orders": 91,
+        "units": 347
+      },
+      {
+        "date": "2025-10-21",
+        "net_revenue": 681988.3,
+        "orders": 78,
+        "units": 290
+      },
+      {
+        "date": "2025-10-22",
+        "net_revenue": 1271055.05,
+        "orders": 96,
+        "units": 351
+      },
+      {
+        "date": "2025-10-23",
+        "net_revenue": 963651.3,
+        "orders": 78,
+        "units": 280
+      },
+      {
+        "date": "2025-10-24",
+        "net_revenue": 879456.4,
+        "orders": 89,
+        "units": 386
+      },
+      {
+        "date": "2025-10-25",
+        "net_revenue": 1255593.9,
+        "orders": 114,
+        "units": 419
+      },
+      {
+        "date": "2025-10-26",
+        "net_revenue": 854167.7,
+        "orders": 98,
+        "units": 352
+      },
+      {
+        "date": "2025-10-27",
+        "net_revenue": 906796.55,
+        "orders": 98,
+        "units": 412
+      },
+      {
+        "date": "2025-10-28",
+        "net_revenue": 792737.05,
+        "orders": 77,
+        "units": 294
+      },
+      {
+        "date": "2025-10-29",
+        "net_revenue": 1020182.45,
+        "orders": 95,
+        "units": 425
+      },
+      {
+        "date": "2025-10-30",
+        "net_revenue": 1457289.55,
+        "orders": 102,
+        "units": 379
+      },
+      {
+        "date": "2025-10-31",
+        "net_revenue": 702633.0,
+        "orders": 83,
+        "units": 317
+      },
+      {
+        "date": "2025-11-01",
+        "net_revenue": 779705.85,
+        "orders": 91,
+        "units": 321
+      },
+      {
+        "date": "2025-11-02",
+        "net_revenue": 1632504.2,
+        "orders": 119,
+        "units": 455
+      },
+      {
+        "date": "2025-11-03",
+        "net_revenue": 1196725.3,
+        "orders": 85,
+        "units": 372
+      },
+      {
+        "date": "2025-11-04",
+        "net_revenue": 723832.35,
+        "orders": 89,
+        "units": 299
+      },
+      {
+        "date": "2025-11-05",
+        "net_revenue": 837984.05,
+        "orders": 87,
+        "units": 339
+      },
+      {
+        "date": "2025-11-06",
+        "net_revenue": 1127484.5,
+        "orders": 104,
+        "units": 389
+      },
+      {
+        "date": "2025-11-07",
+        "net_revenue": 1162966.4,
+        "orders": 84,
+        "units": 332
+      },
+      {
+        "date": "2025-11-08",
+        "net_revenue": 588197.6,
+        "orders": 91,
+        "units": 281
+      },
+      {
+        "date": "2025-11-09",
+        "net_revenue": 1148312.6,
+        "orders": 95,
+        "units": 412
+      },
+      {
+        "date": "2025-11-10",
+        "net_revenue": 1074016.25,
+        "orders": 105,
+        "units": 363
+      },
+      {
+        "date": "2025-11-11",
+        "net_revenue": 780668.0,
+        "orders": 88,
+        "units": 299
+      },
+      {
+        "date": "2025-11-12",
+        "net_revenue": 830487.3,
+        "orders": 80,
+        "units": 265
+      },
+      {
+        "date": "2025-11-13",
+        "net_revenue": 970639.3,
+        "orders": 92,
+        "units": 348
+      },
+      {
+        "date": "2025-11-14",
+        "net_revenue": 1243740.35,
+        "orders": 91,
+        "units": 303
+      },
+      {
+        "date": "2025-11-15",
+        "net_revenue": 1504112.95,
+        "orders": 97,
+        "units": 360
+      },
+      {
+        "date": "2025-11-16",
+        "net_revenue": 1078636.9,
+        "orders": 112,
+        "units": 410
+      },
+      {
+        "date": "2025-11-17",
+        "net_revenue": 535655.8,
+        "orders": 87,
+        "units": 304
+      },
+      {
+        "date": "2025-11-18",
+        "net_revenue": 779277.3,
+        "orders": 77,
+        "units": 292
+      },
+      {
+        "date": "2025-11-19",
+        "net_revenue": 1137437.8,
+        "orders": 94,
+        "units": 335
+      },
+      {
+        "date": "2025-11-20",
+        "net_revenue": 1090266.7,
+        "orders": 99,
+        "units": 392
+      },
+      {
+        "date": "2025-11-21",
+        "net_revenue": 1138960.8,
+        "orders": 89,
+        "units": 339
+      },
+      {
+        "date": "2025-11-22",
+        "net_revenue": 697471.25,
+        "orders": 95,
+        "units": 316
+      },
+      {
+        "date": "2025-11-23",
+        "net_revenue": 1100175.95,
+        "orders": 114,
+        "units": 419
+      },
+      {
+        "date": "2025-11-24",
+        "net_revenue": 780568.0,
+        "orders": 86,
+        "units": 320
+      },
+      {
+        "date": "2025-11-25",
+        "net_revenue": 1011246.75,
+        "orders": 105,
+        "units": 379
+      },
+      {
+        "date": "2025-11-26",
+        "net_revenue": 1003075.6,
+        "orders": 102,
+        "units": 358
+      },
+      {
+        "date": "2025-11-27",
+        "net_revenue": 989367.8,
+        "orders": 83,
+        "units": 326
+      },
+      {
+        "date": "2025-11-28",
+        "net_revenue": 1028029.4,
+        "orders": 93,
+        "units": 348
+      },
+      {
+        "date": "2025-11-29",
+        "net_revenue": 758183.3,
+        "orders": 83,
+        "units": 324
+      },
+      {
+        "date": "2025-11-30",
+        "net_revenue": 1373598.8,
+        "orders": 114,
+        "units": 411
+      },
+      {
+        "date": "2025-12-01",
+        "net_revenue": 1640206.25,
+        "orders": 103,
+        "units": 419
+      },
+      {
+        "date": "2025-12-02",
+        "net_revenue": 781861.65,
+        "orders": 89,
+        "units": 339
+      },
+      {
+        "date": "2025-12-03",
+        "net_revenue": 732877.4,
+        "orders": 93,
+        "units": 325
+      },
+      {
+        "date": "2025-12-04",
+        "net_revenue": 720347.85,
+        "orders": 68,
+        "units": 248
+      },
+      {
+        "date": "2025-12-05",
+        "net_revenue": 556675.45,
+        "orders": 75,
+        "units": 254
+      },
+      {
+        "date": "2025-12-06",
+        "net_revenue": 854682.8,
+        "orders": 80,
+        "units": 303
+      },
+      {
+        "date": "2025-12-07",
+        "net_revenue": 825351.6,
+        "orders": 88,
+        "units": 337
+      },
+      {
+        "date": "2025-12-08",
+        "net_revenue": 910193.35,
+        "orders": 74,
+        "units": 292
+      },
+      {
+        "date": "2025-12-09",
+        "net_revenue": 1224988.25,
+        "orders": 80,
+        "units": 280
+      },
+      {
+        "date": "2025-12-10",
+        "net_revenue": 742781.35,
+        "orders": 66,
+        "units": 241
+      },
+      {
+        "date": "2025-12-11",
+        "net_revenue": 968537.5,
+        "orders": 84,
+        "units": 299
+      },
+      {
+        "date": "2025-12-12",
+        "net_revenue": 1326736.0,
+        "orders": 109,
+        "units": 435
+      },
+      {
+        "date": "2025-12-13",
+        "net_revenue": 1342216.95,
+        "orders": 91,
+        "units": 343
+      },
+      {
+        "date": "2025-12-14",
+        "net_revenue": 870883.0,
+        "orders": 94,
+        "units": 340
+      },
+      {
+        "date": "2025-12-15",
+        "net_revenue": 696986.55,
+        "orders": 82,
+        "units": 329
+      },
+      {
+        "date": "2025-12-16",
+        "net_revenue": 869683.3,
+        "orders": 93,
+        "units": 363
+      },
+      {
+        "date": "2025-12-17",
+        "net_revenue": 1215514.35,
+        "orders": 81,
+        "units": 320
+      },
+      {
+        "date": "2025-12-18",
+        "net_revenue": 805986.2,
+        "orders": 84,
+        "units": 306
+      },
+      {
+        "date": "2025-12-19",
+        "net_revenue": 933572.4,
+        "orders": 73,
+        "units": 239
+      },
+      {
+        "date": "2025-12-20",
+        "net_revenue": 1051072.75,
+        "orders": 101,
+        "units": 341
+      },
+      {
+        "date": "2025-12-21",
+        "net_revenue": 853187.3,
+        "orders": 92,
+        "units": 295
+      },
+      {
+        "date": "2025-12-22",
+        "net_revenue": 809512.6,
+        "orders": 79,
+        "units": 290
+      },
+      {
+        "date": "2025-12-23",
+        "net_revenue": 1259528.15,
+        "orders": 80,
+        "units": 269
+      },
+      {
+        "date": "2025-12-24",
+        "net_revenue": 820604.55,
+        "orders": 104,
+        "units": 408
+      },
+      {
+        "date": "2025-12-25",
+        "net_revenue": 596402.9,
+        "orders": 57,
+        "units": 227
+      },
+      {
+        "date": "2025-12-26",
+        "net_revenue": 738936.4,
+        "orders": 76,
+        "units": 303
+      },
+      {
+        "date": "2025-12-27",
+        "net_revenue": 1217378.95,
+        "orders": 89,
+        "units": 353
+      },
+      {
+        "date": "2025-12-28",
+        "net_revenue": 1007920.55,
+        "orders": 106,
+        "units": 344
+      },
+      {
+        "date": "2025-12-29",
+        "net_revenue": 686209.7,
+        "orders": 65,
+        "units": 240
+      },
+      {
+        "date": "2025-12-30",
+        "net_revenue": 949299.1,
+        "orders": 86,
+        "units": 332
+      },
+      {
+        "date": "2025-12-31",
+        "net_revenue": 570666.5,
+        "orders": 82,
+        "units": 304
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2024-01",
+        "net_revenue": 14176174.9,
+        "orders": 1329,
+        "units": 4962
+      },
+      {
+        "month": "2024-02",
+        "net_revenue": 11928740.7,
+        "orders": 1215,
+        "units": 4517
+      },
+      {
+        "month": "2024-03",
+        "net_revenue": 15036659.2,
+        "orders": 1453,
+        "units": 5523
+      },
+      {
+        "month": "2024-04",
+        "net_revenue": 13738708.4,
+        "orders": 1443,
+        "units": 5339
+      },
+      {
+        "month": "2024-05",
+        "net_revenue": 18259646.1,
+        "orders": 1599,
+        "units": 5917
+      },
+      {
+        "month": "2024-06",
+        "net_revenue": 15579790.25,
+        "orders": 1429,
+        "units": 5258
+      },
+      {
+        "month": "2024-07",
+        "net_revenue": 15307798.1,
+        "orders": 1429,
+        "units": 5379
+      },
+      {
+        "month": "2024-08",
+        "net_revenue": 17212684.85,
+        "orders": 1621,
+        "units": 6060
+      },
+      {
+        "month": "2024-09",
+        "net_revenue": 19621525.75,
+        "orders": 1733,
+        "units": 6509
+      },
+      {
+        "month": "2024-10",
+        "net_revenue": 24912545.4,
+        "orders": 2468,
+        "units": 9137
+      },
+      {
+        "month": "2024-11",
+        "net_revenue": 22186505.4,
+        "orders": 2251,
+        "units": 8354
+      },
+      {
+        "month": "2024-12",
+        "net_revenue": 22076065.4,
+        "orders": 2114,
+        "units": 7961
+      },
+      {
+        "month": "2025-01",
+        "net_revenue": 17586885.9,
+        "orders": 1635,
+        "units": 6242
+      },
+      {
+        "month": "2025-02",
+        "net_revenue": 14978979.75,
+        "orders": 1458,
+        "units": 5517
+      },
+      {
+        "month": "2025-03",
+        "net_revenue": 19252426.1,
+        "orders": 1850,
+        "units": 6962
+      },
+      {
+        "month": "2025-04",
+        "net_revenue": 18071113.1,
+        "orders": 1713,
+        "units": 6408
+      },
+      {
+        "month": "2025-05",
+        "net_revenue": 18830621.5,
+        "orders": 2009,
+        "units": 7510
+      },
+      {
+        "month": "2025-06",
+        "net_revenue": 17304009.45,
+        "orders": 1703,
+        "units": 6315
+      },
+      {
+        "month": "2025-07",
+        "net_revenue": 17096294.55,
+        "orders": 1758,
+        "units": 6564
+      },
+      {
+        "month": "2025-08",
+        "net_revenue": 20963016.05,
+        "orders": 2092,
+        "units": 7951
+      },
+      {
+        "month": "2025-09",
+        "net_revenue": 23208274.65,
+        "orders": 2202,
+        "units": 8245
+      },
+      {
+        "month": "2025-10",
+        "net_revenue": 31420800.95,
+        "orders": 2878,
+        "units": 10847
+      },
+      {
+        "month": "2025-11",
+        "net_revenue": 30103329.15,
+        "orders": 2831,
+        "units": 10411
+      },
+      {
+        "month": "2025-12",
+        "net_revenue": 28580801.65,
+        "orders": 2624,
+        "units": 9718
+      }
+    ]
+  },
+  "products": {
+    "top_by_revenue": [
+      {
+        "product_id": "P0022",
+        "product_name": "Zenith Laptop",
+        "category": "Electronics",
+        "net_revenue": 47138523.0,
+        "units_sold": 651
+      },
+      {
+        "product_id": "P0139",
+        "product_name": "Nova Badminton Racket",
+        "category": "Sports",
+        "net_revenue": 41303040.0,
+        "units_sold": 16844
+      },
+      {
+        "product_id": "P0021",
+        "product_name": "Aurora Laptop",
+        "category": "Electronics",
+        "net_revenue": 28926152.95,
+        "units_sold": 349
+      },
+      {
+        "product_id": "P0201",
+        "product_name": "Aurora Bookshelf",
+        "category": "Furniture",
+        "net_revenue": 22914765.9,
+        "units_sold": 2210
+      },
+      {
+        "product_id": "P0002",
+        "product_name": "Zenith Smartphone",
+        "category": "Electronics",
+        "net_revenue": 20857410.45,
+        "units_sold": 2696
+      },
+      {
+        "product_id": "P0023",
+        "product_name": "Nova Laptop",
+        "category": "Electronics",
+        "net_revenue": 19181117.05,
+        "units_sold": 437
+      },
+      {
+        "product_id": "P0215",
+        "product_name": "Nova Wardrobe",
+        "category": "Furniture",
+        "net_revenue": 18264371.85,
+        "units_sold": 535
+      },
+      {
+        "product_id": "P0058",
+        "product_name": "Zenith Bedsheet Set",
+        "category": "Home & Kitchen",
+        "net_revenue": 13351688.45,
+        "units_sold": 7107
+      },
+      {
+        "product_id": "P0213",
+        "product_name": "Aurora Wardrobe",
+        "category": "Furniture",
+        "net_revenue": 12926553.15,
+        "units_sold": 854
+      },
+      {
+        "product_id": "P0216",
+        "product_name": "Vertex Wardrobe",
+        "category": "Furniture",
+        "net_revenue": 10369378.8,
+        "units_sold": 283
+      }
+    ],
+    "top_by_quantity": [
+      {
+        "product_id": "P0139",
+        "product_name": "Nova Badminton Racket",
+        "category": "Sports",
+        "units_sold": 16844,
+        "net_revenue": 41303040.0
+      },
+      {
+        "product_id": "P0057",
+        "product_name": "Aurora Bedsheet Set",
+        "category": "Home & Kitchen",
+        "units_sold": 10013,
+        "net_revenue": 6309035.2
+      },
+      {
+        "product_id": "P0058",
+        "product_name": "Zenith Bedsheet Set",
+        "category": "Home & Kitchen",
+        "units_sold": 7107,
+        "net_revenue": 13351688.45
+      },
+      {
+        "product_id": "P0143",
+        "product_name": "Nova Running Shorts",
+        "category": "Sports",
+        "units_sold": 5619,
+        "net_revenue": 2458515.4
+      },
+      {
+        "product_id": "P0074",
+        "product_name": "Zenith Face Wash",
+        "category": "Beauty",
+        "units_sold": 4843,
+        "net_revenue": 1053464.2
+      },
+      {
+        "product_id": "P0100",
+        "product_name": "Vertex Novel",
+        "category": "Books",
+        "units_sold": 3999,
+        "net_revenue": 2039483.55
+      },
+      {
+        "product_id": "P0147",
+        "product_name": "Nova Building Blocks",
+        "category": "Toys",
+        "units_sold": 3574,
+        "net_revenue": 3368380.05
+      },
+      {
+        "product_id": "P0240",
+        "product_name": "Vertex Laptop Sleeve",
+        "category": "Accessories",
+        "units_sold": 3148,
+        "net_revenue": 3560452.35
+      },
+      {
+        "product_id": "P0084",
+        "product_name": "Vertex Perfume",
+        "category": "Beauty",
+        "units_sold": 2792,
+        "net_revenue": 10091669.5
+      },
+      {
+        "product_id": "P0002",
+        "product_name": "Zenith Smartphone",
+        "category": "Electronics",
+        "units_sold": 2696,
+        "net_revenue": 20857410.45
+      }
+    ],
+    "by_category": [
+      {
+        "category": "Electronics",
+        "net_revenue": 159761202.3,
+        "units_sold": 13183,
+        "orders": 6989
+      },
+      {
+        "category": "Furniture",
+        "net_revenue": 113454789.6,
+        "units_sold": 15057,
+        "orders": 7871
+      },
+      {
+        "category": "Sports",
+        "net_revenue": 65661868.75,
+        "units_sold": 34390,
+        "orders": 16956
+      },
+      {
+        "category": "Home & Kitchen",
+        "net_revenue": 43802079.5,
+        "units_sold": 25270,
+        "orders": 12850
+      },
+      {
+        "category": "Fashion",
+        "net_revenue": 22469429.3,
+        "units_sold": 9657,
+        "orders": 5251
+      },
+      {
+        "category": "Accessories",
+        "net_revenue": 17665512.25,
+        "units_sold": 17388,
+        "orders": 8920
+      },
+      {
+        "category": "Beauty",
+        "net_revenue": 17443122.4,
+        "units_sold": 15703,
+        "orders": 8229
+      },
+      {
+        "category": "Toys",
+        "net_revenue": 13819952.45,
+        "units_sold": 14257,
+        "orders": 7474
+      },
+      {
+        "category": "Books",
+        "net_revenue": 8055823.1,
+        "units_sold": 13066,
+        "orders": 6902
+      },
+      {
+        "category": "Grocery",
+        "net_revenue": 5299617.6,
+        "units_sold": 9635,
+        "orders": 5164
+      }
+    ],
+    "low_performers": [
+      {
+        "product_id": "P0090",
+        "product_name": "Zenith Lipstick",
+        "category": "Beauty",
+        "net_revenue": 32674.8,
+        "units_sold": 165
+      },
+      {
+        "product_id": "P0232",
+        "product_name": "Vertex Phone Case",
+        "category": "Accessories",
+        "net_revenue": 33726.0,
+        "units_sold": 168
+      },
+      {
+        "product_id": "P0068",
+        "product_name": "Vertex Water Bottle",
+        "category": "Home & Kitchen",
+        "net_revenue": 37996.2,
+        "units_sold": 199
+      },
+      {
+        "product_id": "P0231",
+        "product_name": "Nova Phone Case",
+        "category": "Accessories",
+        "net_revenue": 41633.15,
+        "units_sold": 268
+      },
+      {
+        "product_id": "P0177",
+        "product_name": "Aurora Tea Pack",
+        "category": "Grocery",
+        "net_revenue": 45782.1,
+        "units_sold": 290
+      },
+      {
+        "product_id": "P0095",
+        "product_name": "Nova Sunscreen",
+        "category": "Beauty",
+        "net_revenue": 46066.25,
+        "units_sold": 186
+      },
+      {
+        "product_id": "P0160",
+        "product_name": "Vertex Puzzle",
+        "category": "Toys",
+        "net_revenue": 46071.9,
+        "units_sold": 165
+      },
+      {
+        "product_id": "P0067",
+        "product_name": "Nova Water Bottle",
+        "category": "Home & Kitchen",
+        "net_revenue": 49305.1,
+        "units_sold": 183
+      },
+      {
+        "product_id": "P0176",
+        "product_name": "Vertex Cold Pressed Oil 1L",
+        "category": "Grocery",
+        "net_revenue": 49961.1,
+        "units_sold": 213
+      },
+      {
+        "product_id": "P0101",
+        "product_name": "Aurora Self-Help Book",
+        "category": "Books",
+        "net_revenue": 58038.35,
+        "units_sold": 316
+      }
+    ]
+  },
+  "customers": {
+    "top_spenders": [
+      {
+        "customer_id": "C007190",
+        "orders": 102,
+        "units": 428,
+        "net_revenue": 1454185.55
+      },
+      {
+        "customer_id": "C008046",
+        "orders": 48,
+        "units": 193,
+        "net_revenue": 893753.3
+      },
+      {
+        "customer_id": "C000616",
+        "orders": 23,
+        "units": 99,
+        "net_revenue": 870535.3
+      },
+      {
+        "customer_id": "C008720",
+        "orders": 44,
+        "units": 185,
+        "net_revenue": 858555.1
+      },
+      {
+        "customer_id": "C014864",
+        "orders": 34,
+        "units": 132,
+        "net_revenue": 842870.75
+      },
+      {
+        "customer_id": "C000373",
+        "orders": 40,
+        "units": 136,
+        "net_revenue": 747642.25
+      },
+      {
+        "customer_id": "C000811",
+        "orders": 63,
+        "units": 217,
+        "net_revenue": 724285.3
+      },
+      {
+        "customer_id": "C011631",
+        "orders": 69,
+        "units": 282,
+        "net_revenue": 702623.75
+      },
+      {
+        "customer_id": "C003879",
+        "orders": 69,
+        "units": 258,
+        "net_revenue": 648221.35
+      },
+      {
+        "customer_id": "C013708",
+        "orders": 50,
+        "units": 175,
+        "net_revenue": 643231.25
+      }
+    ],
+    "repeat_vs_onetime": [
+      {
+        "buyer_type": "Repeat",
+        "customers": 10844,
+        "net_revenue": 424075573.7
+      },
+      {
+        "buyer_type": "One-time",
+        "customers": 4104,
+        "net_revenue": 43357823.55
+      }
+    ],
+    "rfm_segments": [
+      {
+        "segment": "Champions",
+        "customers": 2660,
+        "net_revenue": 181157072.35,
+        "avg_recency_days": 39.1,
+        "avg_orders": 6.6
+      },
+      {
+        "segment": "Potential Loyalists",
+        "customers": 4154,
+        "net_revenue": 107972773.35,
+        "avg_recency_days": 78.6,
+        "avg_orders": 2.47
+      },
+      {
+        "segment": "Loyal Customers",
+        "customers": 1351,
+        "net_revenue": 70521355.05,
+        "avg_recency_days": 192.6,
+        "avg_orders": 4.96
+      },
+      {
+        "segment": "At Risk",
+        "customers": 2679,
+        "net_revenue": 64424372.95,
+        "avg_recency_days": 342.3,
+        "avg_orders": 2.32
+      },
+      {
+        "segment": "Hibernating",
+        "customers": 2762,
+        "net_revenue": 28285922.75,
+        "avg_recency_days": 443.7,
+        "avg_orders": 1.0
+      },
+      {
+        "segment": "New Customers",
+        "customers": 736,
+        "net_revenue": 9001531.05,
+        "avg_recency_days": 46.7,
+        "avg_orders": 1.0
+      },
+      {
+        "segment": "Needs Attention",
+        "customers": 606,
+        "net_revenue": 6070369.75,
+        "avg_recency_days": 138.6,
+        "avg_orders": 1.0
+      }
+    ]
+  },
+  "geography": {
+    "by_city": [
+      {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "net_revenue": 62960967.95,
+        "orders": 5928
+      },
+      {
+        "city": "Delhi",
+        "state": "Delhi",
+        "net_revenue": 60009237.7,
+        "orders": 5576
+      },
+      {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "net_revenue": 51730373.25,
+        "orders": 5085
+      },
+      {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "net_revenue": 37373803.3,
+        "orders": 3625
+      },
+      {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "net_revenue": 32380287.95,
+        "orders": 3030
+      },
+      {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "net_revenue": 31768526.2,
+        "orders": 2892
+      },
+      {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "net_revenue": 27502819.6,
+        "orders": 2777
+      },
+      {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "net_revenue": 22145300.2,
+        "orders": 2078
+      },
+      {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "net_revenue": 21319256.95,
+        "orders": 1954
+      },
+      {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "net_revenue": 18168204.8,
+        "orders": 1875
+      },
+      {
+        "city": "Surat",
+        "state": "Gujarat",
+        "net_revenue": 13423972.25,
+        "orders": 1267
+      },
+      {
+        "city": "Kochi",
+        "state": "Kerala",
+        "net_revenue": 12300078.95,
+        "orders": 1195
+      },
+      {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "net_revenue": 12057388.55,
+        "orders": 1252
+      },
+      {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "net_revenue": 11941155.75,
+        "orders": 1207
+      },
+      {
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "net_revenue": 11039161.7,
+        "orders": 972
+      },
+      {
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "net_revenue": 10363691.85,
+        "orders": 956
+      },
+      {
+        "city": "Patna",
+        "state": "Bihar",
+        "net_revenue": 8743674.45,
+        "orders": 784
+      },
+      {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "net_revenue": 8459322.65,
+        "orders": 942
+      },
+      {
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "net_revenue": 7587999.8,
+        "orders": 830
+      },
+      {
+        "city": "Guwahati",
+        "state": "Assam",
+        "net_revenue": 6158173.4,
+        "orders": 612
+      }
+    ],
+    "by_state": [
+      {
+        "state": "Maharashtra",
+        "net_revenue": 106670649.9,
+        "orders": 10027
+      },
+      {
+        "state": "Delhi",
+        "net_revenue": 60009237.7,
+        "orders": 5576
+      },
+      {
+        "state": "Karnataka",
+        "net_revenue": 51730373.25,
+        "orders": 5085
+      },
+      {
+        "state": "Tamil Nadu",
+        "net_revenue": 40839610.6,
+        "orders": 3972
+      },
+      {
+        "state": "Telangana",
+        "net_revenue": 37373803.3,
+        "orders": 3625
+      },
+      {
+        "state": "Gujarat",
+        "net_revenue": 35569272.45,
+        "orders": 3345
+      },
+      {
+        "state": "West Bengal",
+        "net_revenue": 27502819.6,
+        "orders": 2777
+      },
+      {
+        "state": "Madhya Pradesh",
+        "net_revenue": 23096550.25,
+        "orders": 2224
+      },
+      {
+        "state": "Rajasthan",
+        "net_revenue": 21319256.95,
+        "orders": 1954
+      },
+      {
+        "state": "Uttar Pradesh",
+        "net_revenue": 18168204.8,
+        "orders": 1875
+      },
+      {
+        "state": "Kerala",
+        "net_revenue": 12300078.95,
+        "orders": 1195
+      },
+      {
+        "state": "Andhra Pradesh",
+        "net_revenue": 10363691.85,
+        "orders": 956
+      },
+      {
+        "state": "Bihar",
+        "net_revenue": 8743674.45,
+        "orders": 784
+      },
+      {
+        "state": "Chandigarh",
+        "net_revenue": 7587999.8,
+        "orders": 830
+      },
+      {
+        "state": "Assam",
+        "net_revenue": 6158173.4,
+        "orders": 612
+      }
+    ]
+  },
+  "payments": [
+    {
+      "payment_method": "UPI",
+      "orders": 17195,
+      "net_revenue": 180335670.4,
+      "revenue_share_pct": 38.58
+    },
+    {
+      "payment_method": "Credit Card",
+      "orders": 8912,
+      "net_revenue": 88529593.5,
+      "revenue_share_pct": 18.94
+    },
+    {
+      "payment_method": "Debit Card",
+      "orders": 6650,
+      "net_revenue": 70449775.35,
+      "revenue_share_pct": 15.07
+    },
+    {
+      "payment_method": "Cash on Delivery",
+      "orders": 6253,
+      "net_revenue": 64303979.7,
+      "revenue_share_pct": 13.76
+    },
+    {
+      "payment_method": "Net Banking",
+      "orders": 3611,
+      "net_revenue": 40090006.75,
+      "revenue_share_pct": 8.58
+    },
+    {
+      "payment_method": "Wallet",
+      "orders": 2216,
+      "net_revenue": 23724371.55,
+      "revenue_share_pct": 5.08
+    }
+  ],
+  "generated_at": "2026-10-30T06:03:29+00:00"
+}
