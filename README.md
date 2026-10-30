@@ -138,6 +138,10 @@ Step-by-step install, IAM, security groups, HTTPS, and troubleshooting: **[deplo
 
 This repository does **not** launch instances, create buckets, or modify IAM in your account (those actions can incur charges). Ask before running any paid AWS API from this project.
 
+## Render + Vercel deployment (optional)
+
+To host the full app without managing an EC2 instance, deploy the Dockerized Express + PySpark API on Render and the React dashboard on Vercel. Follow **[deploy/RENDER.md](deploy/RENDER.md)**. The API requires a paid Render instance with sufficient memory for Spark.
+
 ## Business rules (how the numbers are calculated)
 * **Gross line revenue** = quantity × unit price. **Discount amount** = gross × discount rate. **Net line revenue** = gross − discount amount.
 * **Average order value** = total net revenue ÷ number of **distinct** valid orders (an order with several lines counts once).
